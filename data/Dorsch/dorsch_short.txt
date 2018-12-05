@@ -1,0 +1,5405 @@
+Chapter 5: Hazard Analysis, Future Work, and Conclusions
+5.1 Hazard Analysis
+5. 1.1 Landslide Dam
+
+Movement of the Salmon Falls landslide has impinged on Salmon Falls Creek,
+displacing the stream channel and forcing its former bed upward by more than 2 m on the
+rising toe. The southern part of the toe has extended undemeath Salmon Falls Creek and
+emerged on the western side of the channel. This activity has created two natural dams,
+behind which two lakes have formed, the largest of which is 2 km long and estimated to
+contain over 300,000 In3 of water (Ellis et al., 2004). The ﬂood hazards associated with
+the failure of these dams may impact life and property located downstream.
+
+Landslide dams can be classified with respect to their orientations with the valley
+ﬂoor (Swanson et a1., 1986). The Salmon Falls landslide dam is a Type VI, in which one
+or more failure surfaces extend under a stream or river valley and emerge on the opposite
+side from the main landslide mass. These dams typically involve landslide activity with
+slow basal sliding, and form lakes by raising the elevation of the streambed, changing the
+local gradient of the stream. In these situations, the risk of downstream ﬂooding is
+typically not great because the lakes are often small, outlet gradients are low, and the
+stream-bed material that forms the dam may be difﬁcult to erode. The stream will often
+continue to ﬂow over the dam debris, so that the likelihood of abrupt overtopping and
+rapid incision of the dam is unlikely (Costa and Schuster, 1988).
+
+A landslide dam in its natural state differs from a constructed embankment dam in
+that it is made up of a heterogeneous mass of unconsolidated or poorly consolidated earth
+
+materials. Natural landslide dams typically lack the characteristics that make
+
+84
+
+constructed dams stable. They have no engineered water barrier, ﬁlter zones to prevent
+piping, drain zones to control pore pressures, or channelized spillways or other protected
+outlets. Most landslide dams fail shortly after formation and often fail catastrophically,
+causing major ﬂooding and loss of life (Costa and Schuster, 1988). However, some
+landslide dams may last for several thousand years, depending on many factors, including
+volume, size, shape, and sorting of blockage material; rates of seepage through the
+blockage; and rates of sediment and water ﬂow into the newly formed lake (Costa and
+Schuster, 1988; Schuster, 1993). Landslide dams consisting of large or cohesive particles
+resist failure better than do dams containing large percentages of soils or soft rock (Costa
+and Schuster, 1988).
+
+The Salmon Falls landslide dam consists mostly of large basalt boulders ranging
+in size from several centimeters up to ca. 1 meter in a matrix of ﬁne material (Fig. 31).
+The ﬁnes are derived from the Glenns Ferry Formation sedimentary deposits and
+Holocene alluvial and lacusttine deposits associated with the modern stream. These
+deposits are now intermixed with the basalt boulders to form the bulk of the landslide
+dam deposits.
+
+Uplift of the old streambed exposes fine-grained alluvial deposits about a meter
+thick on the east side of the current stream channel (Fig. 31). Water from the impounded
+lake continues to ﬂow over the landslide dam, eroding away the streambed sediments and
+ﬁne matrix material, leaving only the large boulders (Fig. 31). There has been some
+minor erosion of the dam, probably as a result of the removal of the ﬁne matrix material
+
+by the ﬂowing stream. The relatively small amount of downcutting into the darn
+
+85
+
+ 
+
+Figure 31. Image of the landslide dam, view is looking east-southeast. The failure
+surface and old stream channel can be seen to the left of the dam. The large impounded
+lake formed behind the dam is visible in the center of the image.
+
+86
+
+indicates that boulders make up a sufﬁcient volume of the dam for it to be self-armored
+against additional erosion (Ellis et al., 2004).
+
+Furthermore, the ﬂow of Salmon Falls Creek is regulated by Salmon Falls dam,
+located ca. 50 km upstream of the landslide. The dam was constructed in 1911 (Ellis et
+al., 2004). USGS streamﬂow records since 1970 for Salmon Falls Creek near Hagerman,
+ca. 10 km of the landslide, indicate that seasonal variations in daily—mean streamﬂow
+generally vary between 0.85 and 8.5 m3/sec. The seasonal streamﬂows have remained
+fairly constant over the 32-year period of record, and only rarely has the maximum daily-
+mean streamﬂow exceeded 11.0 ma/sec. The maximum mean-daily streamﬂow during
+the 32-year recording period was ca. 100 m3/sec in early 1984. Because of the regulating
+effect of Salmon Falls Dam, there is a low probability of an abnormally high stream-ﬂow
+event impacting the landslide dam (Ellis et al., 2004)
+
+Two depth measurement transects of the large impounded lake conducted in
+November 2001 by the BLM indicated that 50 m upstream of the dam the mean lake
+depth was 4.5 m, and that about 400 m upstream of the dam the mean lake depth was 2.3
+m. Based on the two stream transects, the BLM estimated the lake volume in November
+2001, to be slightly greater than 260,000 m3. From late 2001 to early 2004, the toe of the
+slide moved upward approximately 1 m, about 15 percent of the current dam height.
+Assuming that the lake depth increased by a corresponding amount during this time
+period, that the dam was not eroded, and that the lake did not widen signiﬁcantly in the
+narrow canyon, the volume of the lake probably did not increase by more than about 15-
+25 percent. It is therefore inferred that the volume of the large impounded lake is about
+
+325,000 m3 (Ellis et al., 2004).
+
+87
+
+The toe of the landslide forms a steep cliff in some areas along Salmon Falls
+Creek. The continued rise of the toe and westward movement of the slide may induce
+smaller collapses, which could create more dams or debris ﬂows. The primary
+hazard currently associated with the landslide is a possible breach of the landslide dam
+that could cause ﬂooding and outburst debris ﬂows downstream from the landslide.
+
+The worst-case scenario would be a sudden and catastrophic failure of the landslide dam,
+resulting in a release of all or most of the impounded water over a short time period (Ellis
+et al., 2004).
+
+Given the current motion rate of the Salmon Falls landslide and pronounced dam
+armoring, ﬂood hazards associated with dam failure appear to pose a minimal threat at
+this time (Ellis et al., 2004; Thackray et al., 2004). However, should the landslide
+catastrophically fail or accelerate markedly it is difﬁcult to predict whether the dam
+would remain intact or if it too would catastrophically fail and induce other hazards such
+as debris ﬂows. Furthermore, more rapid landslide movement could move the toe further
+into the stream channel and build a higher dam, with consequent larger lake volumes and
+more sizeable ﬂood hazards.
+
+5. 1.2 Debris Flows
+
+As previously mentioned, debris ﬂows are another potential hazard associated
+with the Salmon Falls landslide. The westward and upward motion of the oversteepened
+toe and inﬂux of landslide debris into Salmon Falls Creek could be sufﬁcient to induce
+
+minor debris ﬂows. The landslide toe is composed of ﬁne-grained ﬂuvial and lacustrine
+
+88
+
+sediments that could be easily mobilized in a debris ﬂow. The extensive fracturing in
+these ﬁne sediments produces further instability. Larger debris ﬂows could be induced
+by catastrophic failure of the landslide and landslide dam. A dam breach of the
+impounded lake combined with the sediment and debris delivery from the landslide toe
+could produce large debris ﬂows.
+
+Serious life and property loss downstream would likely be avoided because the
+ﬂows would be constricted to the narrow Salmon Falls Creek Canyon and would have
+time and space to dissipate naturally before reaching populated areas, located ca. 11 km
+downstream. However, an irrigation pumping station that is located ca. 1 km
+downstream from the landslide would likely be seriously damaged.
+
+5. 1.3 Other LandsIr'de Hazards
+
+Recent movement of the Salmon Falls landslide has created large open fractures
+on the 4.5 ha area of the down-dropped canyon rim. This area probably also contains
+open fractures that are bridged by soil and are thus not visible at the ground surface.
+Some of these fractures likely reach depths of several tens of meters (Ellis et al., 2004).
+The Luceme School basalt ﬂow that forms the upper canyon rim also contains numerous
+open fractures associated with jointing planes and collapsed lava tubes. These fractures
+have been widening as the headwall block has moved away from the canyon rim, making
+the cliff face extremely unstable (Ellis et al., 2004).
+
+Areas below the cliff, including the access trail to Bluegill Lake, are therefore
+exposed to considerable risk from rock fall, as are areas of the cliff formerly used by
+
+recreational rock climbers. Such hazards in the 4.5 ha area above the canyon rim affected
+
+89
+
+by the landslide and the areas along and below the canyon rim pose a signiﬁcant safety
+threat to recreational visitors to the canyon.
+
+5.2 Future Work and Other Investigations
+
+5.2.1 Continued Monitoring
+
+Monitoring of the Salmon Falls landslide is ongoing and future work will
+continue to document the landslide’s motion. Ground-based total station surveying duties
+will be resumed by the BLM with cooperation from ISU. If possible, survey prisms that
+were destroyed and stolen by vandals will be replaced on the headwall block of the
+landslide. Additional survey prisms could be installed throughout the slide and also to
+the north and south of the observed displacement to better deﬁne the boundaries of active
+landslide movement.
+
+The autonomous GPS campaign ended in April, 2004. Future work may involve
+acquiring additional GPS receivers that could be deployed throughout the slide and also
+to the north and south of the observed displacement to help delineate the active part of the
+landslide. Resumed GPS monitoring would also help to decipher the details of
+precipitation and irrigation effects on the landslide motion. If funding permits, the GPS
+system could be converted to a real-time system with cellular and internet alarm services.
+5.2.2 LIDAR
+
+Other studies of the Salmon Falls landslide by investigators at ISU have utilized
+airborne LiDAR data, which was acquired in the fall 2002 over a ca.10 km2 area that
+includes the landslide and surrounding canyon. The LiDAR data are evaluated for
+surface roughness characteristics and ﬂood hazard modeling (Glenn et al., in prep). First
+
+and last-pulse data along with intensities provide an opportunity to model landslide
+
+90
+
+surface characteristics. Surface roughness characteristics help in locating areas with
+active movement within a slide and can be used to delineate the slide boundaries. Similar
+studies utilizing this technique on active landslides have proven successful (McKean and
+Roering, 2004).
+
+The LiDAR data have also proven useful in ﬂood hazard modeling by providing
+detailed digital elevation models (DEMs). Both downstream and upstream ﬂooding
+scenarios were created and provided to the BLM for use in two ﬂood models (HEC-RAS,
+a US Army Corps of Engineers model and FLDWAV, a National Weather Service
+model). Downstream cross-sections (vertical and horizontal) of a ‘ﬂooded' canyon are
+available with this dataset at as close as 1-m intervals. Upstream lake-levels were
+projected with increased dam-building to model the canyon holding potential and wetting
+surface.
+
+5.2.3 SAR Interferometry
+
+Other investigations of the Salmon Falls landslide at ISU have utilized SAR
+interferometry in order to map topographic change of the landslide. Other studies of
+landslide motion with InSAR (Bénédicte, 1996; Fruneau et al., 1996; Squarzoni et al.,
+2003) have produced good results for very large landslides in areas where topography is
+not very steep. The steep topography of Salmon Falls Creek Canyon has complicated the
+InSAR study due to significant SAR image layover (Chadwick et al., 2003). Other
+problems have been encountered due to the magnitude of movement of the slide in its
+earlier stages of development, which may be too high on the majority of the slide’s
+surface (estimated >10 m), leading to significant temporal decorrelation. Further
+
+research will focus on the mitigation of these effects, which may prevent the use of
+
+91
+
+InSAR for topographic change mapping in all but the boundary areas of the slide where
+less total movement has occurred. This portion of the study may therefore be most useful
+for defining the boundaries of the active slide, which is less clear along the northern
+boundary (Chadwick et al., 2003).
+
+52.4 Geotechnicai Investigations
+
+The drilling of exploratory borings and the installment of piezometers is needed to
+determine the subsurface geology, material strengths, and groundwater interactions near
+the landslide. A 150-200 m deep exploratory boring just east of the landslide headscarp
+has been proposed by the USGS (Ellis et al., 2004) and ISU to determine the stratigraphy
+in this part of the canyon, and to monitor long-term groundwater pressure variations that
+likely play a critical role in maintaining landslide movement.
+
+One of the major inhibitors in the current study is the lack of a deﬁned failure
+surface and little knowledge about material strengths. Both of these components could be
+addressed with borehole data. An inclirrometer could be installed to help deﬁne the
+depth of the failure surface and undisturbed samples could be collected for material
+strength testing. Data from such a boring would be critical to establish a better
+understanding of the landslide and thus provide a basis for forecasting its long-term
+behavior (Ellis et al., 2004).
+
+5.3 Conclusions
+5.3.1 Hypotheses Revisited
+
+Hypothesis A: Remote sensing and ground—based measurements can be used to
+determine the patterns and mechanisms of landslide motion.
+
+This study has effectively utilized a variety of ﬁeld and remote sensing methods
+
+to document the history and spatial patterns of movement of the active Salmon Falls
+
+92
+
+landslide. Surﬁcial movement and deformation patterns determined through fracture
+mapping, image change detection, total station surveying, and GPS monitoring elucidate
+the patterns and mechanisms of the slide’s motion. Surface deformation mapped through
+GPS techniques identiﬁed contrasting deformational styles in three sectors of the
+landslide. Surﬁcial movement monitored with a total station and GPS identiﬁed spatial
+and temporal movement patterns of the landslide, while image change detection
+techniques documented the pre-monitoring motion of the slide. These data have been
+synthesized in order to determine the slide’s geometry and the mechanisms of motion.
+
+Hypothesis B: The Salmon Falls landslide is a rotational—50116 failure.
+
+Field reconnaissance and initial observations suggested that the Salmon Falls
+landslide may be a rotational-style failure. However, based on the observed movement,
+surface deformation, and ﬁeld observations the Salmon Falls landslide resembles a
+wedge-style slide, with three elements that have horizontal and vertical translation (Figs.
+23c and 24). The slide is moving as a semi-coherent mass with the headwall block
+moving downward (dominantly) and westward, the body translating westward, with
+minimal vertical motion, and the toe moving approximately equal amounts upward and
+westward. This wedge—style model agrees with averaged velocity vectors from the total
+station and GPS data and also with the observed surface deformation on the slide.
+
+5.3.2 Long— Term Movement
+
+The possibility remains that the Salmon Falls landslide may fail catastrophically.
+Many slow moving landslides show periods of rest and periods with slow movements and
+accelerations, leading sometimes to catastrophic failures (Gasparetto et al., 1996; Kilbum
+
+and Petley, 2003). The GPS and theodolite data collected in this study show that the
+
+93
+
+Salmon Falls landslide is prone to significant increases and decreases in velocity with
+time. Catastrophic slope failure is normally preceded by weeks to decades of
+accelerating creep (V oight, 1978). The strength of materials in slow moving landslides is
+gradually reduced by strain softening, and the slope may eventually fail in a catastrophic
+way (Gasparetto et al., 1996). Another possibility is that stresses will slowly equalize
+and create a more stable slope.
+
+After a period of relatively rapid acceleration beginning in 1999 and continuing
+into 2001, the Salmon Falls landslide is now moving at a slow rate with minor
+ﬂuctuations in velocity. The current activity may eventually lead to catastrophic failure,
+but this is difficult to predict. The slide may also continue to move at its current slow
+rate, and eventually stabilize without a catastrophic failure ever occurring. Further
+investigation and monitoring are needed to accurately predict the long-term behavior of
+this landslide.
+
+5. 3. 3 Srgnificance
+
+This study represents an opportunity to study a poorly understood, slow-moving
+landslide utilizing a variety of ﬁeld and remote sensing techniques. The relatively slow
+speed at which this landslide is moving makes it an ideal natural laboratory to test ﬁeld-
+based landslide monitoring techniques in conjunction with newly developed remote
+sensing methods. High-resolution satellite imagery and high-precision GPS are relatively
+young technologies and this study has contributed to the development of these tools for
+landslide monitoring and hazard analysis.
+
+This study is a good example of cooperation between academia and federal
+
+government sectors in the study of a landslide hazard. New partnerships between
+
+94
+
+government agencies and academia to study landslide hazards are one of the major goals
+of the National Landslide Hazards Mitigation Strategy, which was implemented by the
+USGS in 2003 (Spiker and Gori, 2003). The strategy was developed in response to the
+rising costs resulting from landslide hazards in the United States. The mission of the
+landslide hazard mitigation strategy is to reduce the risk of loss of life, injuries, economic
+costs, and destruction of natural and cultural resources that result from landslides and
+other mass wasting hazards.
+
+Studies of the Salmon Falls landslide and associated hazards were enhanced by
+the cooperation between ISU, the USGS and BLM. The collaboration between
+researchers from these groups will continue in order to develop a more complete
+understanding of this landslide hazard. This research project adds to the comprehensive
+understanding of landslide processes and mechanisms as part of the growing effort to
+advance our ability to forecast the behavior of differing types of landslides and keep
+
+potential socioeconomic losses due to landslides at a minimum.
+
+95
+
+\
+
+APPENDIX A: TOTAL STATION SURVEY DATA
+
+96
+
+LATERAL MOVEMENT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SURVEY PRISM #1
+(WEST SIDE)
+DISTANCE A DISTANCE A ANGLE DISTANCE VELOCITY
+DAY # TO PT. 1 (ft) (it) (degrees) MOVED (cm) (cm/day)
+1 2149.65 0 0.000 0.000 0.381
+5 2149.6 0.05 0.000 -1.524 0.479
+12 2149.59 0.06 0.000 1.829 0.954
+20 2149.42 0.23 0.006 9.460 0.155
+27 2149.32 0.33 0.003 10.548 0.426
+33 2149.22 0.43 0.000 13.106 0.467
+41 2149.12 0.53 0.004 16.842 0.479
+49 2148.99 0.66 0.004 20.673 0.297
+56 2148.92 0.73 0.004 22.755 0.799
+61 2148.83 0.82 0.008 26.747 0.390
+69 2148.67 0.98 0.000 29.870 0.941
+76 2148.6 1.05 0.015 36.458 0.441
+89 2148.39 1.26 0.015 42.188 2.969
+96 2148.23 1.42 0.018 47.949 0.698
+103 2148.13 1.52 0.022 52.833 0.120
+107 2148.06 1.59 0.019 53.314 0.311
+114 2147.96 1.69 0.018 55.489 0.346
+119 2147.92 1.73 0.019 57.220 0.362
+126 2147.83 1.82 0.019 59.757 0.162
+133 2147.79 1.86 0.019 60.891 0.171
+181 2147.47 2.18 0.017 69.121 0.138
+210 2147.42 2.23 0.024 73.127 0.165
+250 2147.25 2.4 0.028 79.737 0.077
+260 2147.27 2.38 0.031 80.503 0.328
+266 2147.25 2.4 0.033 82.468 0.035
+328 2147.12 2.53 0.031 84.645 0.131
+345 2147.04 2.61 0.031 86.871 0.111
+697 2145.935 3.715 0.049 126.100 0.044
+758 2146.06 3.59 0.050 123.417 0.058
+959 2145.74 3.91 0.056 134.999 0.141
+SURVEY PRISM #2
+(WEST SIDE)
+DISTANCE A DISTANCE A ANGLE DISTANCE VELOCITY
+DAY # TO PT. 2 (ft) (ft) (degrees) MOVED (cm) (cm/day)
+1 2113.84 0 0.000
+5 2113.77 0.07 0.003 3.783 0.946
+12 2113.68 0.16 0.004 6.763 0.426
+20 2113.56 0.28 0.006 10.576 0.477
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+97
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+27 2113.45 0.39 0.006 13.428 0.407
+33 2113.34 0.5 0.000 15.240 0.302
+41 2113.18 0.66 0.010 22.894 0.957
+49 2113.07 0.77 0.011 26.586 0.462
+56 2112.95 0.89 0.015 32.106 0.789
+61 2112.87 0.97 0.018 35.861 0.751
+69 2112.67 1.17 0.011 37.785 0.241
+76 2112.57 1.27 0.026 48.764 1.569
+89 2112.32 1.52 0.046 69.275 1.578
+96 2112.14 1.7 0.033 63.935 0.763
+103 2112.02 1.82 0.040 71.591 1.094
+107 2111.95 1.89 0.039 72.302 0.178
+114 2111.83 2.01 0.037 74.352 0.293
+119 2111.77 2.07 0.042 78.561 0.842
+126 2111.71 2.13 0.040 79.134 0.082
+133 2111.62 2.22 0.044 84.091 0.708
+181 2111.35 2.49 0.049 93.494 0.196
+203 2111.25 2.59 0.049 95.984 0.113
+210 2111.26 2.58 0.051 97.546 0.223
+250 2111.1 2.74 0.056 104.248 0.168
+260 2111.11 2.73 0.061 107.862 0.361
+266 2111.07 2.77 0.064 110.799 0.489
+697 2109.56 4.28 0.086 162.349 0.120
+758 2109.65 4.19 0.096 166.966 0.076
+959 2109.39 4.45 0.097 174.067 0.035
+SURVEY PRISM #3
+(WEST SIDE)
+DISTANCE A DISTANCE A ANGLE DISTANCE VELOCITY
+DAY # TO PT. 3 (ft) (It) (degrees) MOVED (cm) (cm/day)
+1 1444.21 0 0.000
+
+5 1444.12 0.09 0.006 5.074 1.268
+12 1444.08 0.13 0.004 5.094 0.003
+20 1443.965 0.245 0.001 7.543 0.306
+27 1443.89 0.32 0.001 9.812 0.324
+33 1443.79 0.42 0.001 12.846 0.506
+41 1443.69 0.52 0.000 15.850 0.375
+49 1443.59 0.62 0.004 19.167 0.415
+56 1443.51 0.7 0.001 21.363 0.314
+61 1443.43 0.78 0.000 23.774 0.482
+69 1443.31 0.9 0.008 28.168 0.549
+76 1443.215 0.995 0.003 30.402 0.319
+89 1442.99 1.22 0.001 37.201 0.523
+96 1442.88 1.33 0.003 40.594 0.485
+103 1442.82 1.39 0.007 42.701 0.301
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+98
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+107 1442.76 1.45 0.007 44.516 0.454
+114 1442.7 1.51 0.003 46.074 0.223
+119 1442.63 1.58 0.006 48.347 0.455
+126 1442.58 1.63 0.006 49.865 0.217
+133 1442.52 1.69 0.006 51.687 0.260
+181 1442.3 1.91 0.004 58.305 0.138
+203 1442.22 1.99 0.006 60.805 0.114
+210 1442.24 1.97 0.004 60.131 0.096
+250 1442.09 2.12 0.003 64.653 0.113
+260 1442.09 2.12 0.008 64.933 0.028
+266 1442.09 2.12 0.015 65.672 0.123
+697 1440.86 3.35 0.013 102.557 0.086
+758 1440.7 3.51 0.043 111.958 0.154
+959 1440.74 3.47 0.101 131.244 0.096
+SURVEY PRISM #4
+(WEST SIDE)
+DISTANCE A DISTANCE A ANGLE DISTANCE VELOCITY
+DAY # T0 Pt. 4 (ft) (ft) (degrees) MOVED (cm) (cm/day)
+1 1813.23 0 0.000
+
+5 1813.14 0.09 0.003 3.835 0.959
+12 1813.11 0.12 0.004 5.434 0.229
+20 1812.99 0.24 0.007 9.918 0.561
+27 1812.91 0.32 0.006 11.128 0.173
+33 1812.84 0.39 0.000 11.887 0.126
+41 1812.75 0.48 0.011 18.134 0.781
+49 1812.63 0.6 0.014 22.668 0.567
+56 1812.59 0.64 0.014 23.662 0.142
+61 1812.53 0.7 0.015 25.927 0.453
+69 1812.4 0.83 0.010 26.979 0.131
+76 1812.29 0.94 0.025 37.441 1.495
+89 1812.13 1.1 0.028 42.909 0.421
+96 1811.99 1.24 0.028 46.319 0.487
+103 1811.93 1.3 0.035 51.867 0.793
+107 1811.88 1.35 0.036 53.895 0.507
+114 1811.82 1.41 0.032 52.868 0.147
+119 1811.78 1.45 0.036 56.255 0.678
+126 1811.71 1.52 0.039 59.592 0.477
+133 1811.67 1.56 0.039 60.544 0.136
+181 1811.48 1.75 0.046 69.253 0.181
+203 1811.43 1.8 0.043 68.786 0.021
+210 1811.41 1.82 0.044 70.082 0.185
+250 1811.27 1.96 0.046 74.292 0.105
+260 1811.33 1.9 0.054 77.962 0.367
+266 1811.3 1.93 0.056 79.537 0.263
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+99
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+328 1811.2 2.03 0.058 83.591 0.065
+627 1810.22 3.01 0.104 135.940 0.175
+758 1810.335 2.895 0.117 142.864 0.053
+959 1810.14 3.09 0.121 149.697 0.034
+SURVEY PRISM #5
+(WEST SIDE)
+DISTANCE A DISTANCE A ANGLE DISTANCE VELOCITY
+DAY # TO PT. 5 (ft) (ft) (degrees) MOVED (cm) (cm/day)
+1 2042.56 0 -0.004
+
+5 2042.515 0 0.000 0.000 0.863
+12 2042.51 0.005 0.006 -6.038 1.968
+20 2042.4 0.115 0.008 9.709 0.185
+27 2042.31 0.205 0.008 11.001 0.123
+33 2042.27 0.245 0.008 11.736 0.585
+41 2042.15 0.365 0.011 16.416 0.374
+49 2042.06 0.455 0.013 19.409 0.214
+56 2042.04 0.475 0.014 20.911 0.958
+61 2041.97 0.545 0.018 25.703 0.585
+69 2041.85 0.665 0.021 30.380 0.830
+76 2041.79 0.725 0.026 36.193 0.401
+89 2041.64 0.875 0.029 41.410 0.477
+96 2041.53 0.985 0.031 44.750 0.825
+103 2041.47 1.045 0.036 50.522 0.533
+107 2041.42 1.095 0.038 52.654 0.332
+114 2041.36 1.155 0.039 54.981 0.272
+119 2041.35 1.165 0.040 56.339 0.360
+126 2041.28 1.235 0.042 58.858 0.167
+133 2041.28 1.235 0.043 60.025 0.066
+181 2041.12 1.395 0.043 63.195 0.116
+203 2041.05 1.465 0.044 65.747 0.130
+210 2041.06 1.455 0.046 66.659 0.046
+250 2040.92 1 .595 0.044 68.498 0.587
+260 2040.96 1 .555 0.053 74.364 0.195
+266 2040.96 1 .555 0.054 75.532 0.047
+328 2040.87 1.645 0.056 78.435 0.113
+697 2039.98 2.535 0.085 120.098 0.108
+758 2040.14 2.375 0.081 113.507 0.096
+959 2040 2.515 0.100 132.867 0.139
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100
+
+ 
+
+ 
+
+SURVEY PRISM #6
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(EAST SIDE)
+DISTANCE A DISTANCE A ANGLE DISTANCE VELOCITY
+Day # T0 PT. 6 (ft) (ft) (degrees) MOVED (cm) (cm/day)
+76 2013.65 0 0.000 0.000
+89 2013.65 0 0.001 1.488 0.114
+96 2013.66 -0.01 0.001 1.519 0.004
+103 2013.66 -0.01 0.003 2.991 0.210
+107 2013.69 -0.04 0.003 3.216 0.056
+133 2013.68 -0.03 0.003 3.113 -0.004
+142 2013.68 -0.03 0.004 4.556 0.160
+147 2013.68 -0.03 0.006 6.021 0.293
+155 2013.69 -0.04 0.006 6.075 0.007
+181 2013.69 -0.04 0.007 7.538 0.056
+189 2013.72 -0.07 0.007 7.739 0.025
+196 2013.71 -0.06 0.007 7.661 -0.011
+217 2013.71 -0.06 0.008 9.112 0.069
+224 2013.72 -0.07 0.008 9.179 0.009
+292 2013.72 -0.07 0.010 10.631 0.021
+328 2013.73 -0.08 0.010 10.697 0.002
+345 2013.73 -0.08 0.011 12.150 0.085
+429 2013.7 -0.05 0.011 12.000 -0.002
+627 2013.72 -0.07 0.011 12.093 0.000
+692 2013.74 -0.09 0.011 12.215 0.002
+758 2013.74 -0.09 0.012 13.669 0.022
+800 2013.75 -0.1 0.012 13.733 0.002
+832 2013.76 -0.11 0.012 13.804 0.002
+SURVEY PRISM #7
+(WEST SIDE)
+DISTANCE A DISTANCE A ANGLE DISTANCE VELOCITY
+Day # TO Pt 7 (ft) (ft) (degrees) Moved (cm) (cm/day)
+41 2720.74 0 0.000 0.000 0.000
+49 2720.65 0.09 0.001 3.401 0.425
+56 2720.59 0.15 0.007 11.042 1.092
+61 2720.55 0.19 0.008 13.379 0.467
+69 2720.43 0.31 0.017 25.905 1.566
+76 2720.39 0.35 0.017 26.374 0.067
+89 2720.24 0.5 0.018 30.248 0.298
+96 2720.13 0.61 0.021 35.419 0.739
+103 2720.06 0.68 0.021 36.584 0.166
+107 2720 0.74 0.022 39.277 0.673
+114 2719.96 0.78 0.025 43.287 0.573
+119 2719.91 0.83 0.026 45.803 0.503
+126 2719.87 0.87 0.026 46.487 0.098
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+101
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+133 2719.85 0.89 0.029 50.168 0.526
+181 2719.61 1.13 0.029 54.469 0.090
+203 2719.52 1.22 0.032 59.317 0.220
+210 2719.52 1.22 0.036 64.125 0.687
+250 2719.47 1.27 0.039 68.291 0.104
+260 2719.45 1.29 0.043 73.660 0.537
+266 2719.46 1.28 0.046 76.933 0.546
+SURVEY PRISM #8
+(WEST SIDE)
+DISTANCE A DISTANCE A ANGLE DISTANCE VELOCITY
+Day # TO PT. 8 (ft) (ft) (degrees) MOVED (cm) (cm/day)
+41 2555.62 0 0.000 0.000 0.385
+49 2555.54 0.08 -0.001 -3.084 2.336
+56 2555.51 0.11 0.009 13.270 0.485
+61 2555.48 0.14 0.011 15.696 0.555
+69 2555.39 0.23 0.014 20.140 0.850
+76 2555.33 0.29 0.018 26.087 0.174
+89 2555.2 0.42 0.019 28.353 0.308
+96 2555.12 0.5 0.019 30.509 0.136
+103 2555.06 0.56 0.019 31.462 0.302
+107 2554.99 0.63 0.019 32.668 0.104
+114 2554.95 0.67 0.019 33.399 1.028
+119 2554.92 0.7 0.024 38.537 0.123
+126 2554.87 0.75 0.024 39.400 0.077
+133 2554.84 0.78 0.024 39.937 0.053
+181 2554.58 1.04 0.021 42.502 0.382
+203 2554.5 1.12 0.028 50.895 0.822
+210 2555.62 0 0.042 56.647 0.0
+SURVEY PRISM #9
+(WEST SIDE)
+DISTANCE A DISTANCE A ANGLE DISTANCE VELOCITY
+Day # TO PT. 9 (ft) (ft) (degrees) MOVED (cm) (crnlday)
+76 2091.06 0 0.000 0.000
+89 2090.96 0.1 0.006 6.890 1.887
+96 2090.92 0.14 0.010 11.626 1.478
+103 2090.87 0.19 0.010 12.267 3.118
+107 2090.89 0.17 0.014 16.294 0.993
+133 2090.78 0.28 0.015 19.015 1.103
+142 2090.74 0.32 0.019 23.724 1.911
+147 2090.72 0.34 0.021 25.383 1.206
+155 2090.7 0.36 0.025 29.892 1.774
+181 2090.64 0.42 0.025 30.610 2.786
+189 2090.69 0.37 0.026 31.442 2.404
+196 2090.66 0.4 0.028 33.213 0.565
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+102
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+203 2090.62 0.44 0.029 35.101 0.530
+250 2090.45 0.61 0.031 38.734 0.275
+260 2090.5 0.56 0.032 39.413 1.473
+292 2090.5 0.56 0.033 40.811 0.715
+328 2090.46 0.6 0.035 42.726 0.522
+345 2090.46 0.6 0.036 44.126 0.714
+429 2090.39 0.67 0.044 53.477 0.321
+627 2090.07 0.99 0.057 70.138 0.180
+692 2089.975 1.085 0.058 72.801 0.751
+697 2089.98 1.08 0.060 74.112 0.763
+800 2089.9 1.16 0.061 76.591 0.807
+832 2090.135 0.925 0.067 79.308 0.368
+VERTICAL MOVEMENT
+SURVEY PRISM 1
+(WEST SIDE)
+VERTICAL DISTANCE
+ANGLE ELEVATION MOVED VELOCITY
+DAY # (degrees) PT. 1 (ft) (cm) (cm/day)
+5 275.095 3429.905 0.000
+12 275.210 3429.790 -3.505 0.501
+20 275.215 3429.785 -3.658 0.019
+27 275.218 3429.782 -3.749 0.013
+33 275.250 3429.750 -4.724 0.163
+41 275.250 3429.750 -4.724 0.000
+49 275.250 3429.750 -4.724 0.000
+56 275.280 3429.720 -5.639 0.131
+61 275.300 3429.700 -6.248 0.122
+69 275.350 3429.650 -7.772 0.190
+76 275.380 3429.620 -8.687 0.131
+89 275.390 3429.610 -8.992 0.023
+96 275.400 3429.600 -9.296 0.044
+103 275.405 3429.595 -9.449 0.022
+107 275.410 3429.590 -9.601 0.038
+114 275.430 3429.570 -10.211 0.087
+119 275.440 3429.560 -10.516 0.061
+126 275.460 3429.540 -11.125 0.087
+133 275.480 3429.520 -11.735 0.087
+181 275.480 3429.520 -11.735 0.000
+203 275.500 3429.500 -12.344 0.028
+210 275.500 3429.500 -12.344 0.000
+250 275.510 3429.490 -12.649 0.008
+260 275.530 3429.470 -13.259 0.061
+266 275.550 3429.450 -13.868 0.102
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+103
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+328 275.560 3429.440 -14.173 0.005
+
+345 275.560 3429.440 -14.173 0.000
+
+697 275.580 3429.420 -14.783 0.002
+
+758 275.600 3429.400 -15.392 0.010
+
+959 275.680 3429.320 -17.831 0.012
+
+SURVEY PRISM #2
+(WEST SIDE)
+VERTICAL DISTANCE
+ANGLE ELEVATION MOVED VELOCITY
+DAY # (degrees) PT. 2 (ft.) (cm) (cm/day)
+5 256.295 3448.705 0.000
+
+12 256.430 3448.650 -1 .676 -0.239
+20 256.270 3448.680 -0.762 0.1 14
+27 256.170 3448.700 -0.152 0.087
+33 256.270 3448.680 -0.762 -0.1 02
+41 256.480 3448.660 -1 .372 -0.076
+49 256.170 3448.670 -1 .067 0.038
+56 256.240 3448.700 -0.152 0.131
+61 256.140 3448.680 -0.762 -0.122
+69 256.340 3448.660 -1 .372 -0.076
+76 256.250 3448.650 -1 .676 -0.044
+89 256.100 3448.660 -1 .372 0.023
+96 256.320 3448.680 -0.762 0.087
+103 256.340 3448.660 -1.372 -0.087
+107 256.240 3448.660 -1.372 0.000
+114 256.330 3448.670 -1.067 0.044
+119 256.230 3448.680 -0.762 0.061
+126 256.210 3448.660 -1.372 -0.087
+133 256.310 3448.690 -0.457 0.131
+181 256.250 3448.660 -1.372 -0.019
+203 256.280 3448.650 -1.676 -0.014
+210 256.280 3448.660 -1.372 0.044
+250 256.350 3448.650 -1 .676 -0.008
+260 256.230 3448.660 -1 .372 0.030
+266 256.340 3448.660 -1 .372 0.000
+328 256.340 3448.660 -1 .372 0.000
+345 256.340 3448.660 -1 .372 0.000
+697 256.405 3448.670 -1.067 0.001
+758 256.385 3448.615 -2.743 -0.027
+959 256.335 3448.665 -1.219 0.008
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+104
+
+ 
+
+SURVEY PRISM #3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(WEST SIDE)
+VERTICAL DISTANCE
+ANGLE ELEVATION MOVED VELOCITY
+DAY # (degrees) PT. 3 (ft) (cm) (cm/day)
+5 400.935 3304.065 0.000
+12 400.890 3304.110 1.372 0.196
+20 400.785 3304.215 4.572 0.400
+27 400.590 3304.410 10.516 0.849
+33 400.570 3304.430 11.125 0.102
+41 400.530 3304.470 12.344 0.152
+49 400.300 3304.700 19.355 0.876
+56 400.170 3304.830 23.317 0.566
+61 400.110 3304.890 25.146 0.366
+69 400.050 3304.950 26.975 0.229
+76 399.870 3305.130 32.461 0.784
+89 399.690 3305.310 37.948 0.422
+96 399.570 3305.430 41 .605 0.523
+103 399.340 3305.660 48.616 1.001
+107 399.190 3305.810 53.188 1.143
+114 399.130 3305.870 55.016 0.261
+119 399.080 3305.920 56.540 0.305
+126 399.020 3305.980 58.369 0.261
+133 399.000 3306.000 58.979 0.087
+181 398.730 3306.270 67.208 0.171
+203 398.710 3306.290 67.818 0.028
+210 398.700 3306.300 68.123 0.044
+250 398.680 3306.320 68.732 0.015
+260 398.590 3306.410 71.476 0.274
+266 398.510 3306.490 73.914 0.406
+328 398.400 3306.600 77.267 0.054
+345 398.200 3306.800 83.363 0.359
+697 397.500 3307.500 104.699 0.061
+758 397.250 3307.750 112.319 0.125
+959 397.200 3307.800 113.843 0.008
+SURVEY PRISM #4
+(WEST SIDE)
+VERTICAL DISTANCE
+ANGLE ELEVATION MOVED VELOCITY
+DAY # (degrees) PT. 4 (ft) (cm) (cm/day)
+5 358.860 3346.140 0.000
+12 358.835 3346.165 0.762 0.109
+20 358.770 3346.230 2.743 0.248
+27 358.690 3346.310 5.182 0.348
+33 358.600 3346.400 7.925 0.457
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+105
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+41 358.610 3346.390 7.620 -0.038
+49 358.490 3346.510 11.278 0.457
+56 358.290 3346.710 17.374 0.871
+61 358.300 3346.700 17.069 -0.061
+69 358.230 3346.770 19.202 0.267
+76 358.190 3346.810 20.422 0.174
+89 357.980 3347.020 26.822 0.492
+96 357.880 3347.120 29.870 0.435
+103 357.770 3347.230 33.223 0.479
+107 357.670 3347.330 36.271 0.762
+114 357.600 3347.400 38.405 0.305
+119 357.520 3347.400 38.405 0.000
+126 357.590 3347.410 38.710 0.044
+133 357.580 3347.420 39.014 0.044
+181 357.360 3347.640 45.720 0.140
+203 357.260 3347.700 47.549 0.083
+210 357.410 3347.740 48.768 0.174
+250 357.430 3347.740 48.768 0.000
+260 357.170 3347.830 51.511 0.274
+266 357.260 3347.850 52.121 0.102
+328 357.140 3347.860 52.426 0.005
+345 356.800 3348.200 62.789 0.610
+697 356.470 3348.530 72.847 0.029
+758 356.305 3348.695 77.876 0.082
+959 356.200 3348.800 81.077 0.016
+SURVEY PRISM #5
+(WEST SIDE)
+VERTICAL DISTANCE
+ANGLE ELEVATION MOVED VELOCITY
+DAY # (degrees) PT. 5 (ft) (cm) (cm/day)
+5 376.690 3328.310 0.000
+
+12 376.520 3328.480 5.182 1.036
+20 376.500 3328.500 5.791 0.087
+27 376.425 3328.575 8.077 0.286
+33 376.400 3328.600 8.839 0.109
+41 376.350 3328.650 10.363 0.254
+49 376.090 3328.910 18.288 0.991
+56 375.840 3329.160 25.908 0.953
+61 375.810 3329.190 26.822 0.131
+69 375.790 3329.210 27.432 0.122
+76 375.620 3329.380 32.614 0.648
+89 375.300 3329.700 42.367 1 .393
+96 375.230 3329.770 44.501 0.164
+103 375.130 3329.870 47.549 0.435
+107 375.030 3329.970 50.597 0.435
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+106
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+114 374.970 3330.030 52.426 0.457
+119 374.900 3330.100 54.559 0.305
+126 374.870 3330.130 55.474 0.183
+133 374.700 3330.300 60.655 0.740
+181 374.620 3330.380 63.094 0.348
+203 374.480 3330.520 67.361 0.089
+210 374.470 3330.530 67.666 0.014
+250 374.450 3330.550 68.275 0.087
+260 374.420 3330.580 69.190 0.023
+266 374.350 3330.650 71.323 0.213
+328 374.220 3330.780 75.286 0.660
+345 373.600 3331 .400 94.183 0.305
+697 373.395 3331 .605 100.432 0.368
+758 373.175 3331.825 107.137 0.019
+959 373.045 3331.955 111.100 0.065
+SURVEY PRISM #6
+(WEST SIDE)
+VERTICAL DISTANCE
+ANGLE ELEVATION MOVED VELOCITY
+DAY # (degrees) PT. 6 (ft) (cm) (cm/day)
+5 305.61 3399.39 0.000
+
+12 305.59 3399.41 0.610 0.087
+20 305.725 3399.4 0.305 -0.038
+27 305.73 3399.45 1.829 0.218
+33 305.74 3399.4 0.305 -0.254
+41 305.75 3399.37 -0.610 -0.114
+49 305.64 3399.36 -0.914 -0.038
+56 305.555 3399.445 1 .676 0.370
+61 305.69 3399.4 0.305 -0.274
+69 305.73 3399.43 1.219 0.114
+76 305.73 3399.42 0.914 -0.044
+89 305.6 3399.4 0.305 -0.047
+96 305.64 3399.36 -0.914 -0.174
+103 305.67 3399.33 -1.829 -0.131
+107 305.61 3399.39 0.000 0.457
+114 305.85 3399.4 0.305 0.044
+119 305.52 3399.48 2.743 0.488
+126 305.59 3399.41 0.610 -0.305
+133 305.63 3399.37 -0.610 -0.174
+181 305.68 3399.32 -2.134 -0.032
+203 305.65 3399.35 -1.219 0.042
+210 305.69 3399.31 -2.438 -0.174
+250 305.7 3399.3 -2.743 -0.008
+260 305.59 3399.41 0.610 0.335
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+107
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+266 305.62 3399.38 -0.305 -0.152
+328 305.61 3399.39 0.000 0.005
+345 305.6 3399.4 0.305 0.018
+697 305.6 3399.4 0.305 0.000
+758 305.475 3399.525 4.115 0.062
+959 305.445 3399.555 5.029 0.005
+SURVEY PRISM #7
+(EAST SIDE)
+DISTANCE
+ELEVATION A ELEVATION MOVED VELOCITY
+DAY # PT. 7 (ft) (ft) (cm) (cm/day)
+76 3668.99 36.01 0.000
+89 3668.41 36.59 -17.678 1.360
+96 3668.31 36.69 -20.726 0.435
+103 3668.07 36.93 -28.042 1.045
+107 3668.01 36.99 -29.870 0.457
+133 3667.65 37.35 -40.843 0.422
+142 3667.54 37.46 -44.196 0.373
+147 3667.43 37.57 -47.549 0.671
+155 3667.38 37.62 -49.073 0.190
+181 3667.18 37.82 -55.169 0.234
+189 3667.17 37.83 -55.474 0.038
+196 3667.00 38.00 -60.655 0.740
+232 3666.63 38.37 -71.933 0.313
+292 3666.60 38.40 -72.847 0.015
+328 3666.57 38.43 -73.762 0.025
+345 3666.48 38.52 -76.505 0.161
+429 3665.97 39.03 -92.050 0.185
+627 3664.53 40.46 -135.788 0.221
+SURVEY PRISM #8
+(EAST SIDE)
+DISTANCE
+ELEVATION A ELEVATION MOVED VELOCITY
+DAY # PT. 8 (ft) (ft) (cm) (cm/day)
+76 3673.785 31.215 0.000
+89 3673.210 31.790 -17.526 1.348
+96 3673.270 31.730 -15.697 -0.261
+103 3672.950 32.050 -25.451 1.393
+107 3672.980 32.020 -24.536 -0.229
+133 3672.620 32.380 -35.509 0.422
+142 3672.430 32.570 -41.300 0.643
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+108
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+147 3672.390 32.610 -42.520 0.244
+155 3672.230 32.770 -47.396 0.610
+181 3672.030 32.970 -53.492 0.234
+189 3672.070 32.930 -52.273 -0.152
+196 3671.850 33.150 -58.979 0.958
+SURVEY PRISM #9
+(EAST SIDE)
+DISTANCE
+ELEVATION A ELEVATION MOVED VELOCITY
+DAY # PT. 9 (it) (ft) (cm) (cm/day)
+76 3316.830 388.170 0.000
+89 3316.940 388.060 3.353 0.258
+96 3317.070 387.930 7.315 0.566
+103 3317.130 387.870 9.144 0.261
+107 3317.310 387.690 14.630 1.372
+133 3317.380 387.620 16.764 0.082
+142 3317.410 387.590 17.678 0.102
+147 3317.410 387.590 17.678 0.001
+155 3317.400 387.600 17.374 -0.038
+181 3317.460 387.540 19.202 0.070
+189 3317.500 387.500 20.422 0.152
+196 3317.530 387.470 21.336 0.131
+232 3317.610 387.390 23.774 0.068
+292 3317.690 387.310 26.213 0.041
+328 3317.700 387.300 26.518 0.008
+345 3317.920 387.080 33.223 0.394
+429 3317.980 387.020 35.052 0.022
+627 3318.220 386.780 42.367 0.037
+692 3318.300 386.700 44.806 0.038
+758 3318.450 386.550 49.378 0.069
+959 3318.500 386.500 50.902 0.000
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+109
+
+ 
+
+ 
+
+APPENDIX B: GLOBAL POSITIONING SYSTEM DATA
+
+110
+
+NORTH TOE STATION
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3D
+
+location day northing easting elevation vector
+nt0216 1 4725370713 180437.222 977.895
+
+nt0217 2 4725370714 180437.222 977.915
+
+nt0218 3 4725370712 180437.22 977.87
+
+nt0219 4 4725370713 180437.221 977.909
+
+nt0220 5 4725370714 180437.22 977.901
+
+nt0221 6 4725370713 180437.22 977.891
+
+nt0222 7 4725370713 180437.22 977.89
+
+nt0223 8 4725370713 180437.22 977.908
+
+nt0224 9 4725370713 180437.219 977.907
+
+nt0225 10 4725370713 180437.218 977.913
+
+nt0226 11 4725370713 180437.218 977.912 0.0102
+nt0227 12 4725370712 180437.219 977.91 0.0106
+nt0228 13 4725370712 180437.219 977.907 0.0102
+nto301 14 4725369152 180437.568 975.849 0.0120
+nto302 15 4725369152 180437.569 975.848 0.0123
+nto303 16 4725369152 180437.569 975.858 0.0125
+nto304 17 4725369152 180437.569 975.862 0.0134
+nto305 18 4725369152 180437.568 975.867 0.0135
+nto306 19 4725369152 180437.569 975.867 0.0133
+nto307 20 4725369151 180437.568 975.863 0.0135
+nto308 21 4725369152 180437.567 975.864 0.0134
+nto309 22 4725369151 180437.567 975.855 0.0132
+nto310 23 4725369152 180437.568 975.855 0.0132
+nto311 24 4725369152 180437.568 975.86 0.0134
+nto312 25 4725369151 180437.568 975.864 0.0137
+nto313 26 4725369153 180437.568 975.856 0.0140
+nto314 27 4725369152 180437.567 975.86 0.0140
+nto315 28 4725369153 180437.567 975.843 0.0139
+nto316 29 4725370837 180437.438 975.518 0.0131
+nto317 30 4725370835 180437.44 975.525 0.0127
+nto318 31 4725370835 180437.439 975.526 0.0123
+nto319 32 4725370835 180437.438 975.524 0.01 18
+nto320 33 4725370836 180437.439 975.525 0.01 19
+nto321 34 4725370836 180437.438 975.524 0.01 17
+nto322 35 4725370835 180437.44 975.521 0.01 1 1
+nto323 36 4725370835 180437.44 975.52 0.0104
+nto324 37 4725370835 180437.439 975.521 0.0102
+nto325 38 4725370835 1 80437.439 975.526 0.0099
+nto326 39 4725370835 1 80437.44 975.512 0.0099
+nto327 40 4725370835 1 80437.439 975.521 0.0098
+nto328 41 4725370835 1 80437.439 975.52 0.0093
+nto329 42 4725370835 1 80437.439 975.516 0.0088
+nto330 43 4725370835 1 80437.439 975.523 0.0085
+nto331 44 4725370835 180437.437 975.512 0.0083
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+111
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+nto401 45 4725371 .132 180436.502 979.161 0.0081
+nto402 46 4725371 .132 180436.502 979.163 0.0079
+nto403 47 4725371 .132 180436.503 979.166 0.0076
+nto404 48 4725371 .132 180436.502 979.167 0.0073
+nto405 49 4725371 .132 180436.503 979.162 0.0070
+nto406 50 4725371 .132 180436.503 979.166 0.0072
+nto407 51 4725371 .132 180436.502 979.163 0.0071
+nto408 52 4725371 .133 180436.502 979.164 0.0070
+nto409 53 4725371 .132 180436.503 979.168 0.0069
+nto410 54 4725371 .132 180436.503 979.17 0.0066
+nto411 55 4725371 .131 180436.502 979.17 0.0066
+nto412 56 4725371 .13 180436.504 979.167 0.0066
+nto413 57 4725371 .13 180436.502 979.162 0.0068
+nto414 58 4725371 .131 180436.503 979.163 0.0070
+nto415 59 4725371 .13 180436.504 979.169 0.0070
+nto422 66 4725371 .803 180437.688 976.585 0.0073
+nto423 67 4725371 .804 180437.687 976.585 0.0072
+nto424 68 4725371 .805 180437.686 976.582 0.0072
+nto425 69 4725371 .804 180437.688 976.579 0.0074
+nto426 70 4725371 .804 180437.688 976.581 0.0076
+nto427 71 4725371 .805 180437.688 976.582 0.0077
+nto428 72 4725371 .804 180437.688 976.579 0.0078
+nto429 73 4725371 .804 180437.687 976.586 0.0081
+nto430 74 4725371 .805 180437.687 976.588 0.0084
+nt0501 75 472536939 180437.108 980.714 0.0088
+nt0502 76 4725369387 180437.107 980.717 0.0092
+nt0503 77 4725369387 180437.108 980.708 0.0094
+nt0504 78 4725369388 180437.107 980.71 1 0.0097
+nt0505 79 4725369387 180437.107 980.716 0.0102
+nt0506 80 4725369387 180437.106 980.719 0.0106
+nt0507 81 4725369387 180437.106 980.717 0.0113
+nt0516 90 4725367047 180435.515 977.988 0.0116
+nt0517 91 4725367046 180435.515 977.993 0.0120
+nt0518 92 4725367045 180435.515 977.986 0.0122
+nt0519 93 4725367046 180435.515 977.99 0.0127
+nt0520 94 4725367046 180435.515 977.997 0.0135
+nt0521 95 4725367047 180435.515 977.992 0.0138
+nt0523 97 4725367046 180435.515 977.994 0.0145
+nt0524 98 4725367047 180435.515 977.996 0.0152
+nt0525 99 4725367047 180435.516 977.993 0.0155
+nt0526 100 4725367046 180435.515 977.999 0.0160
+nt0527 101 4725367047 180435.515 977.989 0.0163
+nt0528 102 4725367045 180435.516 977.991 0.0168
+nt0529 103 4725367047 180435.516 977.992 0.0169
+nt0530 104 4725367046 180435.516 978.003 0.0175
+nt0531 105 4725367045 180435.514 978.002 0.0179
+nto601 106 4725369238 180438.49 982.054 0.0181
+
+ 
+
+112
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+nto602 107 4725369237 180438.491 982.052 0.0185
+nto603 108 4725369237 180438.49 982.056 0.0189
+nto604 109 4725369237 180438.489 982.052 0.0192
+nto605 1 10 4725369238 180438.488 982.058 0.0195
+nto606 1 11 4725369237 180438.49 982.053 0.0196
+nto607 1 12 4725369238 1 80438.489 982.055 0.0205
+nto608 1 13 4725369237 180438.489 982.05 0.0210
+nto609 1 14 4725369237 180438.489 982.057 0.0212
+nto610 1 15 4725369237 180438.489 982.053 0.0212
+nto611 1 16 4725369237 180438.488 982.057 0.0212
+nto612 1 17 4725369237 180438.489 982.056 0.0211
+nto613 1 18 4725369238 180438.487 982.058 0.0214
+nto614 1 19 4725369237 180438.488 982.057 0.0212
+nto615 120 4725369237 180438.488 982.055 0.0214
+nto616 121 4725371311 180438.47 981.987 0.0211
+nto617 122 4725371311 180438.472 981.997 0.0212
+nto618 123 472537131 180438.47 981.986 0.0211
+nto619 124 4725371309 180438.47 981.983 0.0211
+nto620 125 4725371 .31 180438.471 981 .987 0.0209
+nto621 126 4725371311 180438.471 981.989 0.0210
+nto622 127 4725371 .31 180438.47 981 .983 0.0206
+nto623 128 4725371 .309 180438.472 981 .989 0.0203
+nto624 129 4725371309 180438.471 981 .981 0.0199
+nto625 130 4725371 .31 180438.47 981 .986 0.0196
+nto626 131 4725371309 180438.47 981 .982 0.0195
+nto627 132 4725371309 180438.47 981 .985 0.0193
+nto628 133 4725371309 180438.472 981 .983 0.0183
+nto629 134 472537131 180438.47 981.98 0.0182
+nto701 135 4725370049 180437.457 984.723 0.0183
+nto702 136 4725370051 180437.458 984.726 0.0188
+nto703 137 472537005 180437.454 984.716 0.0185
+nto705 139 472537005 180437.457 984.719 0.0183
+nto706 140 4725370049 180437.458 984.72 0.0178
+nto707 141 472537005 180437.457 984.718 0.0180
+nto708 142 4725370049 180437.458 984.723 0.0176
+nto709 143 4725370049 180437.457 984.72 0.0175
+nto710 144 472537005 180437.456 984.712 0.0173
+nto711 145 4725370051 180437.456 984.721 0.0173
+nto712 146 4725370048 180437.455 984.725 0.0173
+nto713 147 4725370048 180437.456 984.735 0.0172
+nto714 148 472537005 180437.455 984.719 0.0171
+nto715 149 4725370048 180437.455 984.716 0.0171
+nto716 150 4725369698 180437.93 981 .565 0.0172
+nto717 151 4725369698 180437.929 981.575 0.0171
+nto718 152 4725369698 180437.928 981 .566 0.0172
+nto719 153 4725369698 180437.93 981.571 0.0174
+nto720 154 4725369698 180437.929 981 .569 0.0175
+
+ 
+
+113
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+nto721 155 4725369699 180437.93 981 .572 0.0179
+nto722 156 4725369699 180437.927 981 .568 0.0181
+nto723 157 4725369699 180437.93 981 .575 0.0176
+nto724 158 4725369699 180437.929 981 .571 0.0173
+nto725 158 4725369698 180437.93 981 .571 0.0173
+nto726 160 47253697 180437.931 981 .576 0.0174
+nto727 161 4725369698 180437.929 981 .568 0.0179
+nto728 162 4725369699 180437.928 981 .571 0.0178
+nto729 163 4725369697 180437.928 981 .577 0.0183
+nto730 164 4725369699 180437.928 981 .574 0.0185
+nto731 165 4725369699 180437.929 981 .576 0.0188
+nto80103 166 4725371484 180437.329 976.504 0.0189
+nto80203 167 4725371 .486 180437.329 976.493 0.0189
+nto80303 168 4725371 .486 180437.328 976.506 0.0189
+nto80403 169 4725371 .484 180437.33 976.497 0.0195
+nto80503 170 4725371 .486 180437.329 976.502 0.0197
+nto80603 171 4725371485 180437.328 976.503 0.0197
+nto80703 172 4725371485 180437.328 976.501 0.0195
+nto80803 173 4725371 .484 180437.329 976.506 0.0195
+nto80903 174 4725371 .483 180437.328 976.502 0.0190
+nto81003 175 4725371485 180437.328 976.504 0.0190
+nto81103 176 4725371484 180437.329 976.5 0.0188
+nto81203 177 4725371484 180437.329 976.495 0.0183
+nto81303 178 4725371484 180437.328 976.5 0.0187
+nto81403 179 4725371485 180437.326 976.512 0.0187
+nto81503 180 4725371485 180437.328 976.503 0.0187
+nto81603 181 4725369963 180437.271 979.329 0.0188
+nto81703 182 4725369965 180437.271 979.321 0.0186
+nto81803 183 4725369964 180437.27 979.328 0.0186
+nto81903 184 4725369964 180437.271 979.321 0.0184
+nto82003 185 4725369964 180437.271 979.332 0.0182
+nto82103 186 4725369963 180437.27 979.324 0.0181
+nto82203 187 4725369964 180437.269 979.319 0.0182
+nto82303 188 4725369964 180437.269 979.333 0.0184
+nto82403 189 4725369965 180437.269 979.334 0.0183
+nto82503 190 4725369964 180437.27 979.326 0.0177
+nto82603 191 4725369964 180437.27 979.333 0.0177
+nto82703 192 4725369965 180437.27 979.327 0.0177
+nto82803 193 4725369964 180437.271 979.334 0.0180
+nto82903 194 4725369964 180437.27 979.328 0.0182
+nto83003 195 4725369965 180437.269 979.327 0.0185
+nto83103 196 4725369961 180437.273 979.333 0.0184
+nto90103 197 4725369032 180437.699 980.278 0.0186
+nto90203 198 4725369032 180437.699 980.277 0.0191
+nto90303 199 4725369032 180437] 980.277 0.0189
+nto90403 200 4725369032 180437] 980.275 0.0187
+nto90503 201 4725369032 180437.699 980.28 0.0189
+
+ 
+
+114
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+nto90603 202 4725369033 180437.701 980.278 0.0187
+nto90703 203 4725369031 180437.699 980.275 0.0189
+nto91003 206 4725369034 180437] 980.28 0.0186
+SOUTH TOE STATION
+3D
+location day northing easting elevation vector
+st0216 1.0 4725167873 180485.215 970.989
+st0217 2.0 4725167874 180485.215 971.010
+st0218 3.0 4725167872 180485.215 970.988
+st0219 4.0 4725167873 180485.215 971.002
+st0220 5.0 4725167873 180485.214 970.996
+st0221 6.0 4725167872 180485.214 970.987
+st0222 7.0 4725167872 180485.214 970.984
+st0223 8.0 4725167871 180485.214 971.000
+st0224 9.0 4725167872 180485.213 971.002
+st0225 10.0 4725167871 180485.213 971.009
+st0226 11.0 4725167870 180485.213 971.007 0.008
+st0227 12.0 4725167871 180485.213 971.002 0.008
+st0228 13.0 4725167871 180485.213 971.000 0.008
+sto301 14.0 4725166311 180485.563 968.942 0.008
+sto302 15.0 4725166310 180485.563 968.937 0.008
+sto303 16.0 4725166310 180485.564 968.937 0.008
+sto304 17.0 4725166310 180485.563 968.946 0.008
+sto305 18.0 4725166311 180485.562 968.947 0.009
+sto306 19.0 4725166311 180485.563 968.956 0.009
+sto307 20.0 4725166310 180485.562 968.948 0.009
+sto308 21.0 4725166311 180485.561 968.947 0.009
+sto309 22.0 4725166311 180485.562 968.944 0.009
+sto310 23.0 4725166311 180485.561 968.946 0.009
+sto311 24.0 4725166310 180485.561 968.943 0.009
+sto312 25.0 4725166311 180485.561 968.947 0.010
+sto313 26.0 4725166311 180485.562 968.945 0.011
+sto314 27.0 4725166309 180485.561 968.951 0.012
+sto315 28.0 4725166310 180485.563 968.954 0.012
+sto316 29.0 4725167994 180485.433 968.609 0.012
+sto317 30.0 4725167993 180485.434 968.613 0.012
+sto318 31.0 4725167991 180485.433 968.621 0.013
+sto319 32.0 4725167992 180485.433 968.621 0.013
+sto320 33.0 4725167992 180485.433 968.622 0.012
+sto321 34.0 4725167993 180485.432 968.624 0.012
+sto322 35.0 4725167991 180485.433 968.619 0.012
+sto323 36.0 4725167992 180485.434 968.619 0.012
+sto324 37.0 4725167991 180485.433 968.622 0.012
+sto325 38.0 4725167991 180485.432 968.627 0.012
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+115
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sto326 39.0 4725167992 180485.435 968.610 0.012
+sto327 40.0 4725167991 180485.433 968.623 0.012
+sto328 41.0 4725167991 180485.432 968.615 0.012
+sto329 42.0 4725167991 180485.433 968.612 0.012
+sto330 43.0 4725167995 180485.431 968.604 0.012
+sto402 45.0 4725168288 180484.498 972.250 0.012
+sto403 46.0 4725168289 180484.498 972.261 0.011
+sto404 47.0 4725168286 180484.497 972.260 0.01 1
+sto405 48.0 4725168287 180484.498 972.262 0.01 1
+sto406 49.0 4725168287 180484.498 972.267 0.010
+sto407 50.0 4725168287 180484.497 972.265 0.010
+sto408 51.0 4725168288 180484.496 972.266 0.010
+sto409 52.0 4725168287 180484.497 972.264 0.009
+sto410 53.0 4725168288 180484.497 972.267 0.009
+sto41 1 54.0 4725168286 180484.496 972.269 0.009
+sto412 55.0 4725168286 180484.497 972.266 0.009
+sto413 56.0 4725168287 180484.496 972.263 0.009
+sto414 57.0 4725168287 180484.497 972.260 0.009
+sto415 58.0 4725168287 180484.497 972.265 0.009
+sto422 65.0 4725168960 180485.681 969.680 0.009
+sto423 66.0 4725168960 180485.680 969.679 0.009
+sto424 67.0 4725168959 180485.679 969.673 0.008
+sto425 68.0 4725168960 180485.681 969.676 0.008
+sto426 69.0 4725168960 180485.681 969.672 0.008
+sto427 70.0 4725168961 180485.681 969.673 0.008
+sto428 71.0 4725168960 180485.681 969.672 0.007
+sto429 72.0 4725168961 180485.681 969.678 0.007
+sto430 73.0 4725168961 180485.681 969.681 0.007
+st0502 75.0 4725166544 180485.102 973.807 0.007
+st0503 76.0 4725166543 180485.102 973.802 0.007
+st0505 78.0 4725166544 180485.102 973.802 0.007
+st0506 79.0 4725166544 180485.101 973.806 0.008
+st0507 80.0 4725166544 180485.101 973.803 0.008
+st0516 89.0 4725164205 180483.512 971.069 0.008
+st0517 90.0 4725164204 180483.511 971.080 0.008
+st0518 91.0 4725164203 180483.511 971.075 0.008
+st0519 92.0 4725164203 180483.511 971.078 0.008
+st0520 93.0 4725164204 180483.511 971.083 0.009
+st0521 94.0 4725164204 180483.510 971.076 0.009
+st0522 95.0 4725164203 180483.511 971.081 0.009
+st0523 96.0 4725164202 180483.511 971.081 0.009
+st0524 97.0 4725164204 180483.510 971.088 0.010
+st0525 98.0 4725164205 180483.511 971.082 0.010
+st0526 99.0 4725164204 180483.511 971.089 0.010
+st0527 100.0 4725164205 180483.511 971.082 0.011
+st0528 101.0 4725164203 180483.512 971.083 0.011
+st0529 102.0 4725164204 180483.512 971.077 0.011
+
+ 
+
+116
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+st0530 103.0 4725164204 180483.511 971.089 0.011
+st0531 104.0 4725164202 180483.510 971.087 0.011
+sto601 105.0 4725166395 180486.485 975.139 0.011
+sto602 106.0 4725166394 180486.486 975.139 0.012
+sto603 107.0 4725166395 180486.485 975.140 0.012
+sto604 108.0 4725166394 180486.484 975.136 0.011
+sto605 109.0 4725166395 180486.484 975.143 0.012
+sto606 110.0 4725166394 180486.484 975.139 0.012
+sto607 111.0 4725166395 180486.485 975.139 0.012
+sto608 112.0 4725166394 180486.485 975.133 0.012
+sto609 113.0 4725166395 180486.484 975.139 0.012
+sto610 114.0 4725166395 180486.485 975.133 0.012
+sto611 115.0 4725166394 180486.484 975.138 0.012
+sto612 116.0 4725166394 180486.485 975.141 0.012
+sto613 117.0 4725166394 180486.483 975.139 0.012
+sto614 118.0 4725166394 180486.484 975.137 0.012
+sto615 119.0 4725166394 180486.484 975.139 0.012
+sto616 120.0 4725168469 180486.467 975.073 0.012
+sto617 121.0 4725168469 180486.469 975.084 0.012
+sto618 122.0 4725168469 180486.467 975.073 0.013
+sto619 123.0 4725168467 180486.466 975.067 0.013
+sto620 124.0 4725168468 180486.466 975.072 0.013
+sto621 125.0 4725168469 180486.467 975.072 0.013
+sto622 126.0 4725168468 180486.466 975.068 0.014
+sto623 127.0 4725168467 180486.468 975.070 0.014
+sto624 128.0 4725168467 180486.467 975.066 0.014
+sto625 129.0 4725168467 180486.466 975.071 0.014
+sto626 130.0 4725168467 180486.466 975.071 0.015
+sto627 131.0 4725168467 180486.466 975.073 0.015
+sto628 132.0 4725168467 180486.468 975.073 0.014
+sto629 133.0 4725168468 180486.465 975.070 0.015
+sto630 134.0 4725168469 180486.466 975.075 0.015
+sto701 135.0 4725167208 180485.452 977.811 0.015
+sto702 136.0 4725167210 180485.453 977.820 0.015
+sto703 137.0 4725167209 180485.450 977.811 0.016
+sto704 138.0 4725167209 180485.453 977.816 0.016
+sto705 139.0 4725167210 180485.452 977.813 0.016
+sto706 140.0 4725167208 180485.453 977.816 0.016
+sto707 141.0 4725167210 180485.452 977.812 0.016
+sto708 142.0 4725167208 180485.453 977.816 0.017
+sto709 143.0 4725167208 180485.452 977.815 0.017
+sto710 144.0 4725167210 180485.451 977.810 0.017
+sto711 145.0 4725167210 180485.451 977.814 0.017
+sto712 146.0 4725167208 180485.450 977.813 0.017
+sto713 147.0 4725167208 180485.451 977.824 0.017
+sto714 148.0 4725167209 180485.451 977.813 0.018
+sto715 149.0 4725167208 180485.450 977.814 0.017
+
+ 
+
+117
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sto716 150.0 4725166857 180485.925 974.660 0.018
+sto717 151.0 4725166857 180485.925 974.669 0.017
+sto718 152.0 4725166857 180485.924 974.665 0.018
+sto719 153.0 4725166857 180485.925 974.667 0.018
+sto720 154.0 4725166857 180485.925 974.669 0.018
+sto721 155.0 4725166857 180485.926 974.670 0.018
+sto722 156.0 4725166858 180485.923 974.664 0.018
+sto723 157.0 4725166856 180485.925 974.674 0.018
+sto724 158.0 4725166858 180485.924 974.668 0.019
+sto725 159.0 4725166857 180485.926 974.666 0.019
+sto726 160.0 4725166860 180485.926 974.670 0.019
+sto727 161 .0 4725166858 180485.924 974.663 0.020
+sto728 162.0 4725166858 180485.924 974.668 0.024
+sto729 163.0 4725166856 180485.923 974.672 0.027
+sto730 164.0 4725166858 180485.923 974.664 0.031
+sto731 165.0 4725166859 180485.924 974.668 0.035
+sto80103 166.0 4725168643 180485.324 969.595 0.038
+sto80203 167.0 4725168642 180485.325 969.601 0.042
+sto80303 168.0 4725168644 180485.324 969.607 0.045
+sto80403 169.0 4725168642 180485.325 969.597 0.049
+sto80503 170.0 4725168644 180485.324 969.601 0.053
+sto80603 171 .0 4725168642 180485.323 969.603 0.057
+st121703 304.0 4725168516 180485.585 972.214 0.061
+st121803 305.0 4725168517 180485.585 972.195 0.064
+st121903 306.0 4725168517 180485.585 972.204 0.067
+st122003 307.0 4725168517 180485.583 972.2 0.070
+st122103 308.0 4725168517 180485.583 972.201 0.072
+st122203 309.0 4725168516 180485.584 972.201 0.076
+st122303 310.0 4725168515 180485.584 972.199 0.080
+st122403 311.0 4725168515 180485.583 972.206 0.083
+st122503 312.0 4725168515 180485.581 972.201 0.087
+st122603 313.0 4725168514 180485.582 972.2 0.091
+st122703 314.0 4725168514 180485.581 972.199 0.094
+st122803 315.0 4725168514 180485.582 972.2 0.094
+st122903 316.0 4725168504 180485.588 972.172 0.094
+st123003 317.0 4725168515 180485.581 972.188 0.094
+st123103 318.0 4725168513 180485.579 972.137 0.094
+st010104 319.0 4725168512 180485.58 972.198 0.094
+st010204 320.0 4725168512 180485.58 972.205 0.093
+st010304 321.0 4725168512 180485.579 972.205 0.093
+st010404 322.0 4725168511 180485.579 972.204 0.093
+st010504 323.0 4725168512 180485.579 972.201 0.093
+
+ 
+
+118
+
+ 
+
+MIDDLE STATION
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3D
+
+location day northing easting elevation vector
+mid216 1 4725337235 180591.962 1014.164
+
+mid217 2 4725337236 180591.962 1014.183
+
+mid218 3 4725337239 180591.956 1014.127
+
+mid219 4 4725337235 180591.961 1014.175
+
+mid220 5 4725337235 180591.961 1014.167
+
+mid221 6 4725337235 180591.961 1014.154
+
+mid222 7 4725337235 180591.96 1014.152
+
+mid223 8 4725337234 180591.96 1014.171
+
+mid224 9 4725337234 180591.959 1014.173
+
+mid225 10 4725337233 180591.959 1014.177
+
+mid226 11 4725337233 180591.959 1014.178 0.0036
+mid227 12 4725337233 180591.959 1014.172 0.0038
+mid228 13 4725337233 180591.959 1014.171 0.0040
+mid301 14 4725335673 180592.308 1012.112 0.0042
+mid302 15 4725335673 180592.309 1012.112 0.0043
+mid303 16 4725335673 180592.309 1012.108 0.0045
+mid304 17 4725335673 180592.308 1012.117 0.0049
+mid305 18 4725335674 180592.307 1012.114 0.0022
+mid306 19 4725335673 180592.308 1012.121 0.0017
+mid307 20 4725335673 180592.307 1012.115 0.0013
+mid308 21 4725335674 180592.306 1012.114 0.0008
+mid309 22 4725335674 180592.307 1012.108 0.0006
+mid310 23 4725335674 180592.306 1012.112 0.0008
+mid311 24 4725335674 180592.307 1012.11 0.0010
+mid312 25 4725335674 180592.307 1012.116 0.0009
+mid313 26 4725335674 180592.307 1012.114 0.0009
+mid314 27 4725335674 180592.306 1012.115 0.0008
+mid315 28 4725335674 180592.306 1012.114 0.0009
+mid316 29 4725337359 180592.178 1011.779 0.0010
+mid317 30 4725337357 180592.178 1011.78 0.0012
+mid318 31 4725337356 180592.178 1011.78 0.0015
+mid319 32 4725337356 180592.177 1011.782 0.0017
+mid320 33 4725337357 180592.177 1011.78 0.0018
+mid321 34 4725337357 180592.176 101 1.783 0.0020
+mid322 35 4725337356 180592.178 1011.78 0.0021
+mid323 36 4725337357 180592.178 101 1.778 0.0026
+mid324 37 4725337357 180592.177 1011.78 0.0030
+mid325 38 4725337357 180592.176 101 1.784 0.0035
+mid326 39 4725337356 180592.178 101 1.778 0.0087
+mid327 40 4725337356 180592.176 101 1.781 0.0089
+mid328 41 4725337356 180592.176 101 1.775 0.0092
+mid329 42 4725337356 180592.177 101 1.772 0.0096
+mid330 43 4725337356 180592.175 101 1.775 0.0098
+mid331 44 4725337355 180592.176 1011.776 0.0100
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+119
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mid401 45 4725337653 180591.24 1015.424 0.0104
+mid402 46 4725337652 180591.24 1015.418 0.0107
+mid403 47 4725337652 180591.241 1015.42 0.0112
+mid404 48 4725337651 180591.24 1015.419 0.0116
+mid405 49 4725337652 180591.241 1015.42 0.0121
+mid406 50 4725337652 180591.24 1015.42 0.0127
+mid407 51 4725337652 180591.24 1015.42 0.0132
+mid408 52 4725337653 180591.239 1015.421 0.0136
+mid409 53 4725337653 180591.24 1015.422 0.0139
+mid410 54 4725337653 180591.24 1015.423 0.0143
+mid411 55 4725337652 180591.239 1015.421 0.0148
+mid412 56 4725337652 180591.24 1015.422 0.0153
+mid413 57 4725337652 180591.239 1015.417 0.0153
+mid414 58 4725337652 180591.24 1015.418 0.0154
+mid415 59 4725337651 180591.24 1015.419 0.0154
+mid422 66 4725338325 180592.424 1012.833 0.0154
+mid423 67 4725338325 180592.423 1012.837 0.0156
+mid424 68 4725338325 180592.422 1012.835 0.0157
+mid425 69 4725338325 180592.424 1012.833 0.0158
+mid426 70 4725338324 180592.423 1012.833 0.0159
+mid427 71 4725338325 180592.423 1012.832 0.0161
+mid428 72 4725338324 180592.424 1012.83 0.0163
+mid429 73 4725338325 180592.423 1012.836 0.0165
+mid430 74 4725338325 180592.423 1012.838 0.0167
+mid501 75 4725335911 180591.843 1016.964 0.0168
+mid502 76 4725335908 180591.843 1016.966 0.0168
+mid503 77 4725335907 180591.843 1016.96 0.0167
+mid504 78 4725335909 180591.843 1016.963 0.0167
+mid505 79 4725335908 180591.843 1016.963 0.0166
+mid506 80 4725335908 180591.842 1016.967 0.0163
+mid507 81 4725335909 180591.842 1016.963 0.0160
+mid516 90 4725333565 180590.253 1014.236 0.0157
+mid517 91 4725333567 180590.252 1014.239 0.0155
+mid518 92 4725333566 180590.252 1014.234 0.0153
+mid519 93 4725333567 180590.251 1014.237 0.0153
+mid520 94 4725333568 180590.251 1014.242 0.0151
+mid521 95 4725333567 180590.251 1014.238 0.0150
+mid522 96 4725333567 180590.251 1014.24 0.0148
+mid523 97 4725333566 180590.251 1014.241 0.0146
+mid524 98 4725333568 180590.251 1014.247 0.0145
+mid525 99 4725333568 180590.252 1014.242 0.0146
+mid526 100 4725333568 180590.251 1014.246 0.0144
+mid527 101 4725333569 180590.251 1014.239 0.0142
+mid528 102 4725333567 180590.252 1014.244 0.0141
+mid529 103 4725333568 180590.252 1014.241 0.0139
+mid530 104 4725333568 180590.252 1014.248 0.0137
+mid531 105 4725333566 180590.251 1014.248 0.0137
+
+ 
+
+120
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mid601 106 4725335759 180593.226 1018.298 0.0135
+mid602 107 4725335758 180593.227 1018.298 0.0134
+mid603 108 4725335759 180593.225 1018.299 0.0133
+mid604 109 4725335758 180593.225 1018.296 0.0133
+mid605 110 4725335759 180593.225 1018.302 0.0132
+mid606 111 4725335759 180593.226 1018.298 0.0132
+mid607 112 4725335759 180593.225 1018.298 0.0128
+mid608 113 4725335758 180593.225 1018.295 0.0128
+mid609 114 4725335759 180593.225 1018.3 0.0128
+mid610 115 4725335758 180593.225 1018.296 0.0129
+mid611 116 4725335758 180593.225 1018.301 0.0128
+mid612 117 4725335758 180593.225 1018.3 0.0129
+mid613 118 4725335759 180593.223 1018.302 0.0129
+mid614 119 4725335758 180593.224 1018.301 0.0130
+mid615 120 4725335758 180593.224 1018.303 0.0129
+mid616 121 4725337833 180593.206 1018.235 0.0130
+mid617 122 4725337832 180593.208 1018.244 0.0131
+mid618 123 4725337832 180593.206 1018.235 0.0131
+mid619 124 4725337831 180593.206 1018.23 0.0131
+mid620 125 4725337831 180593.207 1018.234 0.0130
+mid621 126 4725337833 180593.207 1018.234 0.0131
+mid622 127 4725337832 180593.207 1018.23 0.0131
+mid623 128 4725337831 180593.207 1018.232 0.0133
+mid624 129 4725337832 180593.207 1018.227 0.0133
+mid625 130 4725337832 180593.206 1018.233 0.0134
+mid626 131 4725337832 180593.206 1018.229 0.0134
+mid627 132 4725337832 180593.206 1018.233 0.0136
+mid628 133 4725337832 180593.207 1018.232 0.0139
+mid629 134 4725337832 180593.205 1018.231 0.0140
+mid630 135 4725337833 180593.206 1018.236 0.0142
+mid701 136 4725336571 180592.193 1020.973 0.0144
+mid702 137 4725336573 180592.193 1020.978 0.0148
+mid703 138 4725336572 180592.19 1020.97 0.0148
+mid704 139 4725336572 180592.193 1020.974 0.0151
+mid705 140 4725336573 180592.192 1020.971 0.0153
+mid706 141 4725336572 180592.193 1020.972 0.0154
+mid707 142 4725336573 180592.192 1020.97 0.0155
+mid708 143 4725336572 180592.192 1020.972 0.0159
+mid709 144 4725336572 180592.192 1020.969 0.0162
+mid710 145 4725336574 180592.19 1020.964 0.0164
+mid711 146 4725336573 180592.191 1020.968 0.0167
+mid712 147 4725336572 180592.19 1020.967 0.0170
+mid713 148 4725336571 180592.19 1020.98 0.0172
+mid714 149 4725336573 180592.19 1020.966 0.0173
+mid715 150 4725336572 180592.19 1020.966 0.0175
+mid716 151 4725336224 180592.665 1017.821 0.0176
+mid717 152 4725336221 180592.664 1017.818 0.0178
+
+ 
+
+121
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mid718 153 4725336221 180592.663 1017.814 0.0180
+mid719 154 4725336221 180592.664 1017.817 0.0182
+mid720 155 4725336221 180592.663 1017.818 0.0185
+mid721 156 4725336221 180592.664 1017.819 0.0185
+mid722 157 4725336221 180592.662 1017.817 0.0186
+mid723 158 4725336221 180592.664 1017.823 0.0186
+mid724 159 4725336221 180592.663 1017.818 0.0189
+mid725 160 472533622 180592.665 1017.818 0.0190
+mid726 161 4725336223 180592.665 1017.821 0.0189
+mid727 162 4725336221 180592.664 1017.816 0.0191
+mid728 163 4725336221 180592.663 1017.818 0.0193
+mid729 164 472533622 180592.662 1017.821 0.0193
+mid730 165 4725336222 180592.662 1017.812 0.0194
+mid731 166 4725336221 180592.664 1017.816 0.0195
+mid80103 167 4725338007 180592.063 1012.746 0.0196
+mid80203 168 4725338008 180592.063 1012.744 0.0195
+mid80303 169 4725338008 180592.063 1012.748 0.0197
+mid80403 170 4725338007 180592.064 1012.741 0.0197
+mid80503 171 4725338007 180592.064 1012.748 0.0198
+mid80603 172 4725338006 180592.062 1012.747 0.0201
+mid91103 208 4725335554 180592.434 1016.518 0.0202
+mid91203 209 4725335553 180592.434 1016.518 0.0202
+mid91303 210 4725335554 180592.432 1016.523 0.0203
+mid91403 211 4725335554 180592.433 1016.52 0.0201
+mid91503 212 4725335554 180592.433 1016.524 0.0202
+
+BLOCK STATION
+
+location day northing easting elevation 3D vector
+
+blk216 1 4725532 1808255 1073.554
+
+blk217 2 4725532 1808255 1073.559
+
+blk218 3 4725532 1808255 1073.553
+
+blk219 4 4725532 1808255 1073.55
+
+bl k220 5 4725532 1808255 1073.552
+
+bl k223 6 4725532 1808255 1073.555
+
+bl k224 7 4725532 1808255 1073.554
+
+bl k225 8 4725532 1808255 1073.557
+
+bl k226 9 4725532 1808255 1073.552
+
+blk227 10 4725532 1808255 1073.55
+
+blk228 1 1 4725532 1808255 1073.55 0.0052
+
+blk301 12 4725531 1808259 1071.499 0.0057
+
+blk302 13 4725531 1808259 1071.496 0.0063
+
+blk303 14 4725531 1808259 1071.498 0.0067
+
+blk304 15 4725531 1808259 1071.503 0.0071
+
+blk305 16 4725531 1808259 1071.497 0.0073
+
+blk306 17 4725531 1808259 1071.499 0.0073
+
+blk307 18 4725531 1808259 1071.499 0.0076
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+122
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+blk308 19 4725531 1808259 1071.499 0.0081
+blk309 20 4725531 1808259 1071.494 0.0083
+blk310 21 4725531 1808259 1071.496 0.0087
+blk311 22 4725531 1808259 1071.496 0.0090
+blk312 23 4725531 1808259 1071.499 0.0092
+blk313 24 4725531 1808259 1071.496 0.0094
+blk314 25 4725531 1808259 1071.497 0.0096
+blk315 26 4725531 1808259 1071.501 0.0097
+blk316 27 4725533 1808258 1071.175 0.0096
+blk317 28 4725533 1808258 1071.167 0.0097
+blk318 29 4725533 1808258 1071.163 0.0099
+blk319 30 4725533 1808258 1071.163 0.0100
+blk320 31 4725533 1808258 1071.16 0.0102
+blk321 32 4725533 1808258 1071.162 0.0103
+blk322 33 4725533 1808258 1071.159 0.0107
+blk323 34 4725533 1808258 1071.161 0.0110
+blk324 35 4725533 1808258 1071.163 0.0112
+blk325 36 4725533 1808258 1071.166 0.0114
+blk326 37 4725533 1808258 1071.166 0.0118
+blk327 38 4725533 1808258 1071.167 0.0127
+blk328 39 4725533 1808258 1071.162 0.0132
+blk329 40 4725533 1808258 1071.161 0.0137
+blk330 41 4725533 1808258 1071.157 0.0141
+blk331 42 4725533 1808258 1071.161 0.0146
+blk422 65 4725534 180826 1072.22 0.0150
+blk423 66 4725534 180826 1072.224 0.0153
+blk424 67 4725534 180826 1072.229 0.0155
+blk425 68 4725534 180826 1072.225 0.0159
+blk426 69 4725534 180826 1072.225 0.0164
+blk427 70 4725534 180826 1072.221 0.0170
+blk428 71 4725534 180826 1072.221 0.0176
+blk429 72 4725534 180826 1072.221 0.0180
+blk430 73 4725534 180826 1072.223 0.0185
+blk501 74 4725531 1808254 1076.343 0.0190
+blk502 75 4725531 1808254 1076.346 0.0193
+blk503 76 4725531 1808254 1076.349 0.0194
+blk504 77 4725531 1808254 1076.351 0.0196
+blk505 78 4725531 1808254 1076.348 0.0200
+blk506 79 4725531 1808254 1076.351 0.0201
+blk507 80 4725531 1808254 1076.348 0.0203
+blk516 89 4725529 1808238 1073.621 0.0202
+bl k51 7 90 4725529 1808238 1073.625 0.0204
+blk518 91 4725529 1808238 1073.618 0.0203
+blk519 92 4725529 1808238 1073.617 0.0203
+blk520 93 4725529 1808238 1073.623 0.0197
+blk521 94 4725529 1808238 1073.621 0.0194
+blk522 95 4725529 1808238 1073.621 0.0194
+blk523 96 4725529 1808238 1073.62 0.0195
+blk524 97 4725529 1808238 1073.625 0.0195
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+123
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+blk525 98 4725529 1808238 1073.622 0.0196
+blk526 99 4725529 1808238 1073.626 0.0194
+blk527 100 4725529 1808238 1073.618 0.0189
+blk528 101 4725529 1808238 1073.625 0.0190
+blk529 102 4725529 1808238 1073.624 0.0189
+blk530 103 4725529 1808238 1073.63 0.0189
+blk531 104 4725529 1808238 1073.629 0.0192
+blk601 105 4725531 1808268 1077.679 0.0190
+blk602 106 4725531 1808268 1077.676 0.0190
+blk603 107 4725531 1808268 1077.678 0.0192
+blk604 108 4725531 1808268 1077.677 0.0196
+blk605 109 4725531 1808268 1077.682 0.0197
+blk606 110 4725531 1808268 1077.687 0.0202
+blk613 117 4725531 1808268 1077.678 0.0203
+blk614 118 4725531 1808268 1077.676 0.0207
+blk615 119 4725531 1808268 1077.672 0.0211
+blk616 120 4725533 1808268 1077.603 0.0218
+blk617 121 4725533 1808268 1077.611 0.0224
+blk618 122 4725533 1808268 1077.607 0.0228
+blk619 123 4725533 1808268 1077.6 0.0232
+bl k620 124 4725533 1808268 1077.603 0.0236
+blk621 125 4725533 1808268 1077.605 0.0259
+bl k622 126 4725533 1808268 1077.599 0.0288
+blk623 127 4725533 1808268 1077.602 0.0318
+bl k624 128 4725533 1808268 1077.599 0.0348
+bl k625 129 4725533 1808268 1077.602 0.0376
+bl k626 130 4725533 1808268 1077.599 0.0404
+blk627 131 4725533 1808268 1077.601 0.0433
+blk628 132 4725533 1808268 1077.6 0.0464
+bl k629 133 4725533 1808268 1077.599 0.0493
+bl k630 134 4725533 1808268 1077.601 0.0522
+bk102403 250 4725531 1808261 1064.119 0.0552
+bk102503 251 4725531 1808261 1064.1 1 0.0585
+bk102603 252 4725531 1808261 1064.114 0.0616
+bk102703 253 4725531 1808261 1064.104 0.0649
+bk102803 254 4725531 1808261 1064.109 0.0679
+bk102903 255 4725531 1808261 1064.103 0.0709
+bk103003 256 4725531 1808261 1064.102 0.0743
+bk103103 257 4725531 1808261 1064.105 0.0777
+bk110103 258 4725534 1808252 1069.42 0.0814
+bk110203 259 4725534 1808252 1069.416 0.0852
+bk110303 260 4725534 1808252 1069.415 0.0894
+bk110403 261 4725534 1808252 1069.412 0.0911
+bk110503 262 4725534 1808252 1069.41 0.0925
+bk110603 263 4725534 1808252 1069.408 0.0942
+bk110703 264 4725534 1808252 1069.414 0.0956
+bk110803 265 4725534 1808252 1069.417 0.0973
+bk110903 266 4725534 1808252 1069.404 0.0988
+bk111003 267 4725534 1808252 1069.405 0.1003
+
+ 
+
+124
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+bk111103 268 4725534 1808252 1069.398 0.1019
+bk111203 269 4725534 1808252 1069.395 0.1038
+bk111303 270 4725534 1808252 1069.386 0.1055
+bk111403 271 4725534 1808252 1069.399 0.1075
+bk111503 272 4725534 1808252 1069.398 0.1092
+bk111603 273 4725534 1808252 1069.397 0.1107
+bk111703 274 4725534 1808252 1069.39 0.1122
+bk111803 275 4725534 1808252 1069.39 0.1139
+bk111903 276 4725534 1808252 1069.387 0.1159
+bk112003 277 4725534 1808252 1069.388 0.1174
+bk112103 278 4725534 1808252 1069.387 0.1184
+bk112203 279 4725534 1808252 1069.383 0.1191
+bk112303 280 4725534 1808252 1069.381 0.1197
+bk112403 281 4725534 1808252 1069.375 0.1200
+bk112503 282 4725534 1808252 1069.376 0.1209
+bk112603 283 4725534 1808252 1069.382 0.1219
+bk112703 284 4725534 1808252 1069.38 0.1229
+bk112803 285 4725534 1808252 1069.381 0.1236
+bk112903 286 4725534 1808252 1069.377 0.1244
+bk113003 287 4725534 1808252 1069.374 0.1251
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+125
+
+ 
+
+APPENDIX C: QUICKBIRD-AERIAL PHOTOGRAPHY IMAGE CHANGE
+DETECTION DATA
+
+126
+
+1990-2002 IMAGE CHANGE DETECTION RESULTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Quickbird Quickbird AirPhoto Air Photo Vector Vector
+
+UTM UTM 1990 1990 Magnitude Direction
+
+Point Easting Northing Easting Northing (meters) (degrees)
+1 180502 4725162 180512 4725163 10.05 270.57
+2 180516 47251344 1805273 47251358 11.39 270.88
+3 1807428 4725126 1807562 4725123 16.44 270.31
+4 1805636 47250252 1805743 47250263 10.76 270.61
+5 1805804 4724972 1805953 4724973 14.93 270.26
+6 1806448 47250252 1806529 47250265 8.20 271.48
+7 1806224 47251008 1806266 47251029 6.55 276.54
+8 1806252 4725184 1806336 4725151 8.85 276.34
+9 1806756 4725210 1806825 47252123 7.27 276.34
+10 1807176 47250868 1807273 47250868 10.20 270.00
+11 180754.39 47250532 1807626 47251245 12.43 270.30
+12 1807568 47251232 1807626 47251245 5.94 272.88
+13 1807428 4725126 1807562 4725123 13.73 272.87
+14 1808128 4725098 1808212 47250999 8.61 267.07
+15 1808246 47250476 1808299 47250502 5.90 256.47
+16 180964 47250448 1809682 47250456 4.28 272.08
+17 180908 4725198 1809127 47251966 4.74 270.93
+18 1809024 4725235 1809072 47252359 4.88 272.01
+19 180964 47252604 1809661 4725261 4.14 271.23
+20 1809368 4725364 180943 47253647 4.26 271.59
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+127
+
+ 
+
+1998-2002 IMAGE CHANGE DETECTION RESULTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Quickbird Quickbird AirPhoto AirPhoto Vector Vector
+UTM UTM 1998 1998 Magnitude Direction
+
+Point Easting Northing Easting Northing (meters) (degrees)
+1 1805328 4725210 1805412 4725210 8.40 270.07
+2 1805636 47251344 1805253 47251355 9.36 276.75
+3 1807372 4725140 1807428 4725140 5.60 270.10
+4 1805636 47250252 1805723 47250261 8.75 264.09
+5 1806034 4725115 180614 4725112 6.31 242.62
+6 1806448 47250252 180651.8 47250252 7.00 270.08
+7 1806224 47251008 180627 4725102 4.81 286.93
+8 1805216 4725064 1805272 4725064 5.60 270.10
+9 1806756 4725210 180680 47252121 4.88 295.51
+10 1807176 47250868 1807248 4725087.1 7.21 272.39
+11 180754.39 47250532 1807629 47250544 8.58 278.04
+12 1807568 47251232 1807605 47251232 3.70 270.15
+13 1807428 4725126 1807486 47251235 6.32 293.32
+14 1808128 4725098 1808206 47251001 8.08 285.07
+15 1808246 47250476 1808276 47250452 4.00 233.13
+16 180964 47250448 180967.4 47250452 3.42 276.71
+17 180908 4725198 1809116 47251935 3.83 277.50
+18 1809024 4725235 1809056 47252356 3.26 280.62
+19 180964 47252604 1809676 47252608 3.62 276.34
+20 1809386 4725364 1809421 47253643 3.31 275.19
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+128
+
+ 
+
+1990-2002 IMAGE CHANGE DETECTION ERROR RESULTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Quickbird Quickbird AirPhoto AirPhoto Difference Difference
+UTM UTM 1990 1990 Easting Northing
+
+Point Easting Northing Easting Northing (meters) (meters)
+1 182420 4724562 182420 4724562 0 0
+2 1818572 47250756 1818544 47250746 2.8 1
+3 1826496 47251434 1826496 47251476 0 0.8
+4 1817928 4723978 181791.4 4723977.4 1.4 0.6
+5 1825964 47239416 1825957 47239413 0.7 0.3
+6 1812048 47243952 1812027 47243945 2.1 0.7
+7 1794638 47261038 1794665 47261038 2.3 0
+8 1804376 47248068 1804376 47248068 0 0
+9 181328 47239052 181328 47239052 0 0
+10 1814456 47251428 1814453 47251427 0.3 0.1
+11 1812692 47248068 1812635 47248066 0.7 0.2
+12 1818572 47250868 1818559 4725086 1.3 0.8
+13 1828434 4724328 1828469 47243275 1.5 0.5
+14 181846 47247676 181844 47247666 2 1
+15 1816808 47246416 1816808 47246416 0 0
+16 1818824 47256748 1818815 47256744 0.9 0.4
+17 1814708 47258176 1814701 47258173 0.7 0.3
+18 1817564 47246248 1817553 47246248 1.1 0
+19 1812838 47244938 1812876 47244938 1.2 0
+20 181468 47247704 1814673 4724770 0.7 0.4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+129
+
+ 
+
+1999-2002 IMAGE CHANGE DETECTION ERROR RESULTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Quickbird Quickbird Air Photo Air Photo Difference Difference
+
+UTM UTM 1998 1998 Easting Northing
+
+Point Easting Northing Easting Northing (meters) (meters)
+1 182420 4724562 1824136 4724557 1.4 0.5
+2 1818572 47250756 1818565 4725075 0.7 0.3
+3 1826496 47251434 1826496 4725148 0 0
+4 1817928 4723978 1817919 4723978 0.9 0.4
+5 1825964 47239416 1825943 4723940 2.1 1.3
+6 1812048 47243952 181204 4724395 0.8 0.2
+7 1794638 47261038 179467.4 4726108 1.4 0.8
+8 1804376 47248068 1804376 4724807 0 0
+9 181328 47239052 1813268 4723905 1.2 0
+10 1814456 47251428 1814429 4725142 2.7 1.2
+11 1812692 47248068 1812692 4724807 0 0
+12 1818572 47250868 1818564 4725087 0.8 0.3
+13 1828434 4724328 182847.? 4724328 0.7 0.3
+14 181846 47247676 181845 4724768 1 0
+15 1816808 47246416 1816791 4724641 1.7 0.9
+16 1818824 47256748 1818816 4725675 0.8 0.2
+17 1814708 47258176 1814696 4725817 1.2 0.6
+18 1817564 47246248 1817551 4724624 1.3 0.4
+19 1812838 47244938 181288 4724498 0.8 0.5
+20 181468 47247704 1814673 4724769 0.7 1.1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+130
+
+ 
+
+REFERENCES CITED
+
+Angeli, M.G., Pasuto, A. and Silvano, S., 2000, A critical review of landslide monitoring
+experiences: Engineering Geology, v. 55, p. 133-147.
+
+Baum, R.L. and Fleming, R.W., 1991, Use of longitudinal strain in identifying driving
+and resisting elements of landslides: Geological Society of America Bulletin, v.
+103, p. 1121-1132.
+
+Bénédicte, F., 1996, Observation and modeling of the Saint Etienne de Tinee Landslide
+using SAR Interferometry, in Papers Submitted to the Fringe 96 Workshop, 24-
+28, 1996.
+
+Bonnichsen, B. and Godchaux, M., 1997, Unpublished geologic map of the Balanced
+Rock Quadrangle, Idaho, Twin Falls Co.: Idaho Geological Survey.
+
+Bonnichsen, B. and Godchaux, M., 2004, Late Miocene, Pliocene, and Pleistocene
+geology of southwestern Idaho with emphasis on basalts in the Bruneau-
+Jarbridge, Twin Falls, and western Snake River Plain regions, in Bonnichsen, B.,
+White, GM, and McCurry, M., eds., Tectonic and Magmatic Evolution of the
+Snake River Plain Volcanic Province: Idaho Geological Survey Bulletin 30.
+
+Brunsden, D., 1993, Mass movements; the research frontier and beyond: a
+geomorphological approach: Geomorphology, v. 7, p. 85-128.
+
+Buhl Herald, 1934, Earthquake felt in Buhl Monday, March 15, 1934.
+Buhl Herald, 1937, Earth sinking into underground cave, August 12, 1937.
+
+Bureau of Land Management-Burley Field Office, 2004, Website: http://
+www.id.blm.gov/burley/data/bg1.htm. Accessed January 28, 2004.
+
+Chadwick, J ., T hackray, G.D., Dorsch, 3]., Glenn, NE, and Sklar, J ., 2003, Use of GPS
+and interferometric SAR for monitoring a large landslide in South-central Idaho:
+Proceedings from the 30th International Symposium on Remote Sensing of
+Environment, November 10-14, 2003, Honolulu, Hawaii.
+
+Chadwick, J ., Dorsch, S.J., Thackray, G.D., Glenn, NP. and Schilling, K., in review,
+Application of multi-temporal high resolution imagery and GPS in a study of the
+motion of a canyon rim landslide: ISPRS Journal of Photogrammetry and Remote
+Sensing.
+
+Coe, J .A., Ellis, W.L ., Godt, J .W., Savage, W.Z., Savage, J E Michael, J .A., Kibler,
+
+J 0., Powers, P.S., Lidke, DJ. and Debray, S., 2003, Seasonal movement of the
+Slumgullion landslide as determined from GPS observations and ﬁeld
+
+131
+
+instrumentation, July 1998-March 2002: Engineering Geology, v. 68, issue 1-2, p.
+67-101.
+
+Costa, J .E. and Schuster, R.L., 1988, The formation and failure of natural dams:
+Geological Society of America Bulletin, v. 100, p. 1054-1068.
+
+Cruden, D.M., 1984, More rapid analysis of rock slopes: Canadian Geotechnical J oumal,
+v. 21, n. 4, p. 678-683.
+
+Cruden, D.M. and Vames, DJ, 1996, Landslide types and processes, in Turner, AK. and
+Schuster, R.L., eds., Landslides Investigation and Mitigation, Transportation
+Research Board Special Report 247, National Research Council, Washington
+D.C., p. 36-75.
+
+Densmore, A.L., Anderson, R.S., McAdoo, BC. and Ellis, MA, 1997, Hillslope
+evolution of bedrock landslides: Science, v. 275, p. 369-37 2.
+
+Densmore, AL. and Hovius, N., 2000, Topographic ﬁngerprints of bedrock landslides:
+Geology, v. 28, n. 4, p. 371-374.
+
+Digital Atlas of Idaho, 2003, Website: http://irrmh.isu.edu/digitalatlas/. Accessed May 1,
+2003.
+
+Dorsch, S.J., Thackray, G.D., Glenn, NE and Chadwick, J ., 2003, Quickbird-aerial
+photography image comparison to quantify the geomorphic evolution of a
+landslide complex in South-central Idaho: Proceedings from the 30111 International
+Symposium on Remote Sensing of Environment, November 10-14, 2003,
+Honolulu, Hawaii.
+
+Ellis, W.L., Schuster, R.L. and Schulz, W.H., 2004, Assessment of hazards associated
+with the Bluegill Landslide, south-central, Idaho: US. Geological Survey Open
+File Report 2004-1054, 16 p.
+
+Fleming, R.W. and Johnson, AM, 1989, Structures associated with strike-slip faults that
+bound landslide elements, in Johnson, A.M., Burhham, C.W., Allen, CR. and
+Muehlberger, W., eds., Richard H. Jahns Memorial volume: Engineering
+Geology, v. 27, p. 39-114.
+
+Fleming, R.W., Baum, KL and Johnson, AM, 1993, Deformation of landslide surfaces
+as indicators of movement processes, in Proceedings of the 2Ild Seminar on
+Landslide Hazards, Cosenza, Italy, March 5-6, 1990: Geographica Fisica e
+Dinamica Quaternaria, v. 16, n. 1., p. 9-11.
+
+aneau, F., Achache, J. and Delacourt, C., 1996, Observation and modeling of the Sant-
+
+Etienne-de-Tinée landslide using SAR Interferometry: Tectonophysics, v. 265, p.
+18 l - 1 90.
+
+132
+
+Gasparetto, P., Mosselman, M. and Van Asch, T.W.J., 1996, The mobility of the Alvera
+landslide (Cortina d’ Ampezzo, Italy): Geomorphology, v. 15, p. 327-335.
+
+Gerstel, W., 1999, Landslide inventory of the West Central Olympic Peninsula:
+Washington Division of Geology and Earth Resources, Open ﬁle report 99-2,
+Olympia, WA.
+
+Gili, J .A., Corominas, J. and Rius, J ., 2000, Using global positioning system techniques
+in landslide monitoring: Engineering Geology, v. 55, p. 167-192.
+
+Glenn, N.F., Streutker, D., Dorsch, S.J., Thackray, G.D. and Chadwick, J ., in prep.,
+Correlations between landslide morphology and surficial motion utilizing LiDAR:
+Earth Surface Processes and Landforms.
+
+Gomberg, J ., Bodin, P., Savage, W. and Jackson, ME, 1995, Landslide faults and
+tectonic faults, analogs?: The Slumgullion eartlrﬂow, Colorado: Geology, v. 23, n.
+1, p. 41-44.
+
+Hart, W.K., Aronson, J .L. and Mertzman, SA, 1984, Areal distribution and age of low-
+K high-alumina olivine tholeitte magmatism in the northwestern Great Basin:
+Geological Society of America Bulletin, v. 95, p. 186—195.
+
+Hart W.K., Brueske, M.E., Remme, PR. and McDonald, H.G., 1999, Chronostratigraphy
+of the Pliocene Glenns Ferry Formation, Hagerman Fossil Beds National
+Monument, Idaho: Geological Society of America Abstracts with Programs, v. 31,
+n. 4, p. A-15.
+
+Hervas, J ., Barredo, J ., Rosin, P.L., Pasuto, A., Mantovani, F. and Silvano, S., 2003,
+Monitoring landslides from optical remotely sensed imagery: the case history of
+Tessina landslide, Italy: Geomorphology, v. 54, p. 63-75.
+
+Jenks, MD. and Bonnichsen, B., 1989, Subaqueous basalt eruptions into Pliocene Lake
+Idaho, Snake River Plain, Idaho, in Chamberlain, V.E., Breckenridge, RM. and
+Bonnichsen, B., eds., Guidebook to the Geology of Northern and Western Idaho
+and Surrounding Area: Idaho Geological Survey Bulletin 28, p. 17-34.
+
+Keaton, J .R. and DeGraff, J .V., 1996, Surface observation and geologic mapping, in
+Turner, AK. and Schuster, R.L., eds., Landslides Investigation and Mitigation,
+Transportation Research Board Special Report 247, National Research Council,
+Washington DC, p. 178-230.
+
+Kilbum, C.R.J. and Petley, D.N., 2003, Forecasting giant, catastrophic slope collapse:
+lessons from Vajont, Northern Italy: Geomorphology, v. 54, p. 21-32.
+
+Kimmel, PG, 1982, Stratigraphy, age, and tectonic setting of the Miocene—Pliocene
+
+133
+
+lacustrine sediments of the western Snake River Plain, Oregon and Idaho, in
+Bonnichsen, B. and Breckenridge, R.M., eds., Cenozoic Geology of Idaho: Idaho
+Bureau of Mines and Geology Bulletin 26, p. 559-578.
+
+Lee, GA, 1938, Recent Landslides in Salmon Creek Canyon, Idaho, Journal of Geology,
+46 (4), p. 660-665.
+
+Lee, D.E., Link, PK. and Ore, HT, 1995, Characterization of the Glenns Ferry
+Formation in the Fossil Gulch area, Hagerman Fossil beds National Monument,
+Idaho: Idaho Museum of Natural History Geology Report #1.
+
+Link, P.K., McDonald, H.G., Fanning, MC. and Godfrey, A.E., 2002, Detrital zircon
+evidence for Pleistocene drainage reversal at Hagerman Fossil Beds National
+Monument, central Snake River Plain, Idaho, in Bonnichsen, B., White, GM, and
+McCurry, M., eds., Tectonic and Magmatic Evolution of the Snake River Plain
+Volcanic Province: Idaho Geological Survey Bulletin 30.
+
+Malde, HE, 1972, Startigraphy of the Glenns Ferry Formation from Hammett to
+Hagerman, Idaho: US. Geological Survey Bulletin 1331-D, 19 p.
+
+Malde, HE, 1991, Quaternary geology and structural history of the Snake River Plain,
+Idaho and Oregon, in Morrison, R.B., ed., Quaternary nonglacial geology;
+Conterrninous US, Geological Society of America, The Geology of North
+America, v. K—2, p. 251-281.
+
+Malde, HE. and Powers, HA, 1962, Upper Cenozoic stratigraphy of the western Snake
+River Plain, Idaho: Geological Society of America Bulletin, v. 73, p. 1197-1220.
+
+Malde, HE. and Powers, HA, 1972, Geologic map of the Glenns Ferry-Hagerman area,
+west-central Snake River Plain, Idaho: US. Geological Survey Miscellaneous
+Investigations Map I-696, scale 1: 48,000, 2 sheets.
+
+Malde, H.E., Powers, HA. and Marshall, CH, 1963, Reconnaissance geologic map of
+west-central Snake River Plain, Idaho: US. Geological Survey Miscellaneous
+Geological Investigations Map I-373, scale 12125000.
+
+Malet, J .P., Maquaire, O. and Calais, E., 2002, The use of global positioning system
+techniques for the continuous monitoring of landslides: application to the
+Supersize Earthﬂow (Alpes-de-Haute-Province, France): Geomorphology, v. 43,
+p.33-54.
+
+McDonald, G.H., Link, PK. and Lee, DE, 1996, An overview of the Geology and
+Paleontology of the Pliocene Glenns Ferry Formation, Hagerman Fossil
+Beds National Monument, Northwest Geology, V. 26, p. 16-45.
+
+McKean, J. and Roering, J ., 2004, Objective landslide detection and surface morphology
+
+134
+
+mapping using high-resolution airborne laser altimetry: Geomorphology, v. 57, p.
+331-3 5 1 .
+
+Mikkelsen, PE, 1996, Field instrumentation, in Turner, AK. and Schuster, R.L., eds,
+Landslides Investigation and Mitigation, Transportation Research Board Special
+Report 247 , National Research Council, Washington DC, p. 278-316.
+
+Mora, P., Baldi, P., Casula, G., Fabris, M., Ghirotti, M., Mazzirri, E. and Pesci, A., 2003,
+Global Positioning Systems and digital photogrammetry for the monitoring of
+mass movements: application to the Ca’ di Malta landslide (northern Apennines,
+Italy): Engineering Geology, v. 68, Issue 1-2, p. 103-121.
+
+Nale, D.K., 2002, Quickbird-aerial photography comparison report: EMAP International,
+39 p.
+
+National Oceanic and Atmospheric Administration, 2004, Website:
+http://www.ncdc.noaa.gov/oa/ncdc.html. Accessed March 1, 2004.
+
+Perkins, M.E., Brown, F.H., Nash, W.P., McIntosh, W. and Williams, S.K., 1988,
+Sequence, age, and source of silicic fallout tuffs in middle to late Miocene basins
+of the northern Basin and Range province: Geological Society of America
+Bulletin, v. 110, n. 3, p 344-360.
+
+Perkins, M.E., Nash, W.P., Brown, RH. and Fleck, R.J., 1995, Fallout tuffs of Trapper
+Creek Idaho- A record of Miocene explosive volcanism in the Snake River Plain
+volcanic province: Geological Society of America Bulletin, v. 107, p. 1484-1506.
+
+Petley, D.N. and Allison, R.J., 1997, The mechanics of deep-seated landslides,
+Earth Surface Processes and Landforms, v. 22, p. 747-758.
+
+Petley, D.N., Bulmer, M.H. and Murphy, W., 2002, Patterns of movement in rotational
+and translational landslides, Geology, v. 30, no. 8, p. 719-722.
+
+Pierce, KL. and Morgan, LA, 1992, The track of the Yellowstone hot spot: Volcanism,
+faulting, and uplift, in Link, P.K., Kuntz, M.A., and Platt, L.B., eds., Regional
+Geology of Eastern Idaho and Western Wyoming: Geological Society of America
+Memoir 17 9.
+
+Radbruch-Hall, D.H., Colton, R.B., Davies, W.E., Lucchitta, I., Skipp, BA. and Vames,
+DJ, 1983, Landslide overview map of the conterminous US, Geological Survey
+Professional Paper 1183.
+
+Repenning, C.A., Weasma, TR, and Scott, GR, 1995, The Early Pleistocene (Latest
+Blancan- Earliest Irvingtonian) Froman Ferry Fauna and history of the Glenns
+Ferry Formation, southwestern Idaho: US. Geological Survey Bulletin 2105, 86
+
+p.
+
+135
+
+Riedel, J .L., 1992, Existing conditions of large landslides at Hagerman Fossil Beds
+National Monument: National Park Service Report, 26 p.
+
+Sadler, J .L., and Link, P.K., 1996, The Tuana Gravel: Early Pleistocene response to
+longitudinal drainage of a late-stage rift basin, western Snake River Plain, Idaho,
+Northwest Geology, v. 26, p 46-62.
+
+Schuster, R.L., 1993, Landslide dams: hazards and mitigation, in Proceedings of the 2nd
+Seminar on Landslide Hazards, Cosenza, Italy, March 5-6, 1990: Geographica
+Fisica e Dinamica Quatemaria, v. 16, n. 1, p. 17-19.
+
+Schuster, R.L., 1996, Socioeconomic signiﬁcance of landslides, in Turner, AK. and
+Schuster, R.L., eds, Landslides Investigation and Mitigation, Transportation
+Research Board Special Report 247, National Research Council, Washington
+DC, p. 12-35.
+
+Schuster, R.L, Chleborad, AF. and Hayes, W.H., 1989, The White Bluffs landslides, in
+Galster, R.W., ed., Engineering Geology in Washington, Washington Division of
+Geology and Earth Resources Bulletin 78, v. 2, p. 911-920.
+
+Schuster, KL and Hayes, W.H., 1984, Irrigation induced landslides in soft rocks and
+sediments along the Columbia River, South-central Washington State, U.S.A.: IV
+International Symposium on Landslides, Sept. 16-21, 1984, Toronto, Canada, p.
+431-436.
+
+Schuster, R.L. and Highland, L.M., 2001, Socioeconomic and environmental impacts of
+Landslides: US. Geological Survey Open File Report 01-0276, 40 p.
+
+Selby, M.J., 1993, Hillslope materials and processes 2’1d Edition, Oxford University Press.
+
+Singhroy, V.H., Loehr, J .E. and Correa, A0, 2000, Landslide risk assessment with high
+spatial resolution remote sensing data: Proceedings IGARSS 2000, IEEE
+International Geoscience and Remote Sensing Symposium, July 24-28, 2000,
+Honolulu, Hawaii.
+
+Smith, G.R., Swirydczuk, K., Kimmel, PC. and Wilkinson, B.H., 1982, Fish
+biostratigraphy of late Miocene to Pleistocene sediments of the western Snake
+River Plain, Idaho, in Bonnichsen, B. and Breckenridge, R.M. eds, Cenozoic
+Geology of Idaho: Idaho Bureau of Mines and Geology Bulletin 26, p. 519-541.
+
+Spiker, EC. and Gori, PL, 2003, National landslide hazards mitigation strategy- a
+framework for loss reduction: United States Geological Survey Circular 1244, 48
+
+p.
+
+Squarzoni, C., Delacourt, C. and P. Allemand, 2003, Nine years of spatial and temporal
+
+136
+
+evolution of the La Valette landslide observed by SAR Interferometry:
+Engineering Geology, v. 68, Issue 1-2, p. 53-66
+
+Summerﬁeld, M.A., 1991, Global Geomorphology, Prentice Hall.
+
+Swanson, F.J., Norio, O. and Masaki, T., 1986, Landslide dams in Japan, in Schuster,
+R.L., ed., Landslide dams—Processes, risk, and mitigation, American Society of
+Civil Engineers Geotechnical Special Publication 3, p. 131-145
+
+Swirydczuk, K., Larson, GP. and Smith, GR, 1982, Volcanic ash beds as stratigraphic
+markers in the Glenns Ferry and Chalk Hills Formations from Adrian, Oregon to
+
+Bruneau, Idaho, in Bonnichsen, B. and Breckenridge, R.M. eds., Cenozoic
+Geology of Idaho: Idaho Bureau of Mines and Geology Bulletin 26, p. 543-558.
+
+Terzaghi, K., 1950, Mechanism of landslides, in Paige, 8., ed., Application of Geology to
+Engineering Practice: The Geological Society of America, Engineering Geology,
+Berkeley Volume, p. 83-123.
+
+Thackray, G.D., Dorsch. S.J., Chadwick, J. and Glenn, NR, 2004, Remote sensing and
+ﬁeld studies of the Salmon Falls landslide, southern Idaho, Geological Society of
+America Abstracts with Programs, v. 36, no. 4, p. 13.
+
+USFWS, 1999, Forest and ﬁsh report, Washington State Department of Natural
+Resources.
+
+Utah, 2002, Website: http://www.seis.utah.edu/Reports/UtahHistoricEqCat1850-1962/.
+Accessed June 12, 2002.
+
+Van Asch, T.W.J., Buma, J .T. and Van Beek, L.P.H., 1999, A view on some hydrological
+triggering systems in landslides: Geomorphology, v. 30, p. 25-32.
+
+Vames, DJ, 1978, Slope movement types and processes, in Schuster, R.L. and Krizek,
+R.J., eds., Special Report 17 6: Landslides: Analysis and Control, TRB, National
+Research Council, Washington DC, p. 11-33.
+
+Voight, B., 1978, Rockslides and avalanches: 1, Natural Phenomena, Elsevier.
+
+Voight, B., 1988, A relation to describe rate-dependent material failure: Science, v. 243,
+p. 200-203.
+
+Westen, OJ. and Getahun, FL, 2003, Analyzing the evolution of the Tessina landslide
+using aerial photographs and digital elevation models: Geomorphology, v. 54, p.
+77-89.
+
+Wieczorek, CF, 1996, Landslide triggering mechanisms, in Turner, AK. and Schuster,
+
+137
+
+R.L., eds, Landslides Investigation and Mitigation, Transportation Research
+Board Special Report 247, National Research Council, Washington DC, p. 76-
+90.
+
+Western Regional Climate Center, 2004, Website: http://
+www.wrcc.dri.edu/divisional.html, Accessed March 1, 2004.
+
+Zézere, J .L., Ferreira, AB. and Rodrigues, ML, 1999, The role of conditioning and
+
+triggering factors in the occurrence of landslides: a case study in the are north of
+Lisbon (Portugal): Geomorphology, v. 30, p.133-146.
+
+138
+
